@@ -1,0 +1,1153 @@
+---
+title: Autoavaliação
+output:
+  html_document:
+    toc: true
+    css:
+      - CSS/logo-above-toc.css
+      - CSS/narrow-margins.css
+      - CSS/responsive.css
+      - CSS/generic.css
+      - CSS/main-color.css
+---
+
+<!--install and/or load all R packages-->
+```{r setup, include = FALSE, echo = FALSE, warning = FALSE, message = FALSE, fig.align = 'center', out.width = "100%", results = "hide"}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE,
+  fig.align = 'center',
+  results = "asis",
+  include = TRUE,
+  out.width = "100%",
+  knitr.kable.NA = '--',
+  knitr.table.format = "html"
+)
+source("Scripts/all-required-packages.R", local = knitr::knit_global())
+```
+
+<!--script for inserting LOGO ABOVE THE TOC-->
+```{js table-of-contents}
+$(document).ready(function() {
+  $('#TOC').parent().prepend('<div id=\"nav_logo\"><img src="PPG/Images/logo-programa.png"></div>');
+  });
+```
+
+<!--script for sharing-->
+<p align="right">
+```{r share}
+# home <- "https://ppgcr-unisuam.github.io/observatoriocr/"
+home <- metadata$repository_url
+source("Scripts/social-media-sharing.R", local = knitr::knit_global())
+```
+</p>
+
+
+## **Planejamento estratégico** {#planejamento .tabset}
+
+<!--script for generating HORIZONTAL LINE-->
+<hr style="height:2px;border-width:0;color:#2C3E50;background-color:#2C3E50">
+
+### **Programa (PPG)** {#planejanemto-ppg}
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **Institucional (PDI)** {#planejanemto-pdi}
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+## **Metodologia** {#metodologia}
+
+<!--script for generating HORIZONTAL LINE-->
+<hr style="height:2px;border-width:0;color:#2C3E50;background-color:#2C3E50">
+
+<br>
+
+### **Formulários** {#formularios .tabset}
+
+#### **Qualidade das disciplinas**
+
+<p align="center">
+[<img align="center" src="PPG/Images/pesquisadasdisciplinas.png">](https://forms.gle/vp5yDpqrgb695M7y9){target="_blank"}
+</p>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+#### **Pesquisa do Egresso**
+
+<p align="center">
+[<img align="center" src="PPG/Images/pesquisadoegresso.png">](https://forms.gle/a4P8MeKmfYmKadf76){target="_blank"}
+</p>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **Grupos de trabalho** {#grupos-trabalho .tabset}
+
+#### **2024-2021** {.tabset}
+
+##### **GT-05**
+
+<iframe src="https://drive.google.com/file/d/1nH6uwlrnGT-FaR7CoJ3LfaEH_7yVhvE9/preview" style="width:100%; height:500px; border:0;"></iframe>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+##### **GT-06**
+
+<iframe src="https://drive.google.com/file/d/1nVBJsNtabVPDJjBJqISPsrnpUs3THSx-/preview" style="width:100%; height:500px; border:0;"></iframe>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+##### **GT-07**
+
+<iframe src="https://drive.google.com/file/d/1fi5VtKblMVEZ--_0_49ijnFn0VmqDyfS/preview" style="width:100%; height:500px; border:0;"></iframe>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+##### **GT-08**
+
+<iframe src="https://drive.google.com/file/d/1nRjCxEUpVdmoD5rY5Xa8EwnPbSoHmqE_/preview" style="width:100%; height:500px; border:0;"></iframe>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+#### **2020-2017** {.tabset}
+
+##### **GT-01**
+
+<iframe src="https://drive.google.com/file/d/1nSLC_mwELkrjKq2sMktkFgHooKwjgKRi/preview" style="width:100%; height:500px; border:0;"></iframe>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+##### **GT-02**
+
+<iframe src="https://drive.google.com/file/d/1pX9XpxS4U3k5sjkXA9mZ54nyK2-XT2FS/preview" style="width:100%; height:500px; border:0;"></iframe>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+##### **GT-03**
+
+<iframe src="https://drive.google.com/file/d/1nVoIuS-WV9g_C34MXL9ESZr2r330s9z2/preview" style="width:100%; height:500px; border:0;"></iframe>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+##### **GT-04**
+
+<iframe src="https://drive.google.com/file/d/1pd3TJKh-1xGKWMwcRB45-9P9rfaBA9jA/preview" style="width:100%; height:500px; border:0;"></iframe>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+## **Resultados** {#resultados}
+
+<!--script for generating HORIZONTAL LINE-->
+<hr style="height:2px;border-width:0;color:#2C3E50;background-color:#2C3E50">
+
+<br>
+
+### **Síntese dos dados** {.tabset #sintese-dados}
+
+#### **Dados completos**
+
+<!--script for generating STACKED HORIZONTAL BAR CHART-->
+
+```{css barchart-css}
+.row {
+  display: flex;
+  align-items: stretch;
+  margin: 0 0;
+}
+
+.row .label {
+  flex: 0 0 auto;
+}
+
+.row .bar-container {
+  flex: 1;
+  display: flex;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+
+.row .bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.val-a { background: #18BC9C }
+.val-b { background: #F39C12 }
+```
+
+<br>
+
+```{r barchart-data, eval = any(has.sucupira.files, has.ppg.files)}
+data.sucupira <- 0
+if (has.sucupira.files) {
+  # get amount of data from Sucupira XLSX files
+  source("Scripts/get-sucupira-sheets-names.R",
+         local = knitr::knit_global())
+  sheets <- sucupira.sheets
+  
+  for (i in 1:length(sheets)) {
+    sheet <- sheets[i]
+    source("Scripts/read-xlsx-sucupira.R", local = knitr::knit_global())
+    data.sucupira <- sum(data.sucupira, !is.na(sucupira.raw))
+  }
+}
+
+data.ppg <- 0
+if (has.ppg.files) {
+  # get amount of data from PPG XLSX files
+  source("Scripts/get-ppg-xlsx-data.R", local = knitr::knit_global())
+  if (length(files.to.read) != 0) {
+    for (i in 1:length(files.to.read)) {
+      sheets <- excel_sheets(files.to.read[i])
+      for (j in 1:length(sheets)) {
+        sheet <- sheets[j]
+        try(ppg.file <-
+              readxl::read_excel(files.to.read[i], sheet = sheets[j]),
+            silent = TRUE)
+        data.ppg <- sum(data.ppg, !is.na(ppg.file))
+      }
+    }
+  }
+}
+
+# total data
+total <- data.sucupira + data.ppg
+
+# print stacked horizontal bar chart
+cat('<div class="row">')
+cat('<div class="bar-container">')
+cat(
+  paste0(
+    '<div class="bar val-a" style="color:white; font-weight:bold; flex-basis:',
+    data.sucupira / total * 100,
+    '%">Plataforma Sucupira</div>'
+  )
+)
+cat(
+  paste0(
+    '<div class="bar val-b" style="color:white; font-weight:bold; flex-basis:',
+    data.ppg / total * 100,
+    '%">Institucionais</div>'
+  )
+)
+cat('</div>')
+cat('</div>')
+
+cat('<br>')
+cat('\n\n')
+cat("*Fontes:* [**Plataforma Sucupira**](https://sucupira.capes.gov.br/sucupira/)")
+
+cat('<br><a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a><br>')
+```
+
+#### **Dados perdidos**
+
+```{r missing-data-sucupira, cache = TRUE, cache.path = "cache/dados-perdidos/", eval = has.sucupira.files}
+# initialize data
+missing.data <- c()
+
+# get amount of data from Sucupira XLSX files
+source("Scripts/get-sucupira-sheets-names.R",
+       local = knitr::knit_global())
+
+# get all years available
+source("Scripts/years-sucupira.R", local = knitr::knit_global())
+
+for (ii in 1:length(sucupira.sheets)) {
+  sheet <- sucupira.sheets[ii]
+  source("Scripts/read-xlsx-sucupira.R", local = knitr::knit_global())
+  
+  # loop for every available year
+  for (jj in 1:length(anos)) {
+    # check index of missing data
+    indexes <-
+      which(is.na(sucupira.list[[jj]]) == TRUE, arr.ind = TRUE)
+    if (dim(indexes)[1] != 0) {
+      for (kk in 1:dim(indexes)[1]) {
+        # get metadata about the missing data
+        missing.data <-
+          rbind(missing.data,
+                cbind(anos[jj],
+                      sucupira.sheets[ii],
+                      colnames(sucupira.list[[jj]])[indexes[kk, 2]]
+                      )
+                )
+      }
+    }
+  }
+}
+
+if (dim(missing.data)[1] != 0) {
+  missing.data <- as.data.frame(missing.data)
+  colnames(missing.data) <-
+    c("Aba", "Ano", "Coluna")
+  
+  missing.data <- unique(missing.data)
+
+  ids <- order(as.numeric(missing.data$'Ano'), decreasing = TRUE)
+  table <- missing.data[ids, ]
+  
+  source("Scripts/table-with-buttons.R", local = knitr::knit_global())
+  create_dt(table, title = "Dados perdidos na Sucupira")
+
+} else {
+  cat("*Sem dados para exibir*")
+}
+cat('\n\n')
+cat("*Fontes:* [**Plataforma Sucupira**](https://sucupira.capes.gov.br/sucupira/)")
+
+cat('<br><a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a><br>')
+```
+
+### **Nota** {#nota}
+
+```{r auto-notas, eval = has.notas}
+# read separate sheets
+notas <- readxl::read_excel("PPG/Notas.xlsx", sheet = "Notas")
+
+cat(
+  paste(
+    '<iframe src="',
+    notas[1],
+    '" style="width:100%; height:600px; border:0;"></iframe>',
+    sep = ""
+  )
+)
+
+cat('\n\n')
+
+cat("*Fontes:* [**Plataforma Sucupira**](https://sucupira.capes.gov.br/sucupira/public/consultas/avaliacao/viewPreenchimentoFicha.xhtml?idFicha=6566&popup=true)")
+
+cat('<br><a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a><br>')
+```
+
+### **Documentos CAPES** {#documentos .tabset}
+
+<!--script for generating HORIZONTAL LINE-->
+<hr style="height:2px;border-width:0;color:#2C3E50;background-color:#2C3E50">
+
+```{r apresentacao-periodos, eval = has.avaliacao}
+# initialize all sheets
+abas <- excel_sheets("PPG/Avaliação.xlsx")
+
+# display each sheet in a tab
+for (i in 1:length(abas)) {
+  cat('\n\n<!-- -->\n\n')
+  cat(paste0('#### **', abas[i], '**'))
+  cat('\n\n<!-- -->\n\n')
+  periodo.raw <-
+    readxl::read_excel("PPG/Avaliação.xlsx",
+               sheet = abas[i],
+               col_types = c("text"))
+  
+  # replace the link by a tag
+  for (i in 1:dim(periodo.raw)[1]) {
+    periodo.raw[i, 3] <-
+      paste("[↗️](", periodo.raw[i, 3], '){target="_blank"}', sep = "")
+  }
+  
+  # print table
+  print(
+    kable(periodo.raw, align = c("l", rep(
+      "c", ncol(periodo.raw) - 2
+    ), "r")) %>% kable_styling(
+      bootstrap_options = c("striped", "hover", "condensed", "responsive"),
+      full_width = T,
+      position = "center"
+    )
+  )
+  
+  # print end of tab rows
+  cat('<br><a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a><br>')
+}
+
+cat('\n\n')
+
+cat("*Fontes:* [**CAPES**](https://www.gov.br/capes/pt-br")
+```
+
+<br>
+
+### **Qualidade das disciplinas** {#qualidade-disciplinas .tabset}
+
+<!--script for generating HORIZONTAL LINE-->
+<hr style="height:2px;border-width:0;color:#2C3E50;background-color:#2C3E50">
+
+#### **2024-2021**
+
+<iframe src="https://drive.google.com/file/d/1ilDduzPYnLHOlnhH-TUPL4cVPcq43Kqw/preview" style="width:100%; height:500px; border:0;"></iframe>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+#### **2020-2017**
+
+<iframe src="https://drive.google.com/file/d/1ix-9zIVULXlJMvntkXWl38iDEdvziDyK/preview" style="width:100%; height:500px; border:0;"></iframe>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **Pesquisa do egresso** {#pesquisa-egresso .tabset}
+
+<!--script for generating HORIZONTAL LINE-->
+<hr style="height:2px;border-width:0;color:#2C3E50;background-color:#2C3E50">
+
+#### **Completa**
+
+<iframe src="https://drive.google.com/file/d/1k3PppnhBXToQItVOiMzSGAeGvwOYOXFN/preview" style="width:100%; height:500px; border:0;"></iframe>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+## **Ficha de avaliação** {#ficha-avaliacao}
+
+<!--script for generating HORIZONTAL LINE-->
+<hr style="height:2px;border-width:0;color:#2C3E50;background-color:#2C3E50">
+
+<br>
+
+## **1. Programa** {#programa .tabset}
+
+<br>
+
+### **1.1.1**
+
+#### **Estrutura Acadêmica do Programa**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **1.1.2**
+
+#### **Proposta Curricular do Programa**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **1.1.3**
+
+#### **Infraestrutura**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **1.2.1**
+
+#### **Dimensão do corpo Docente Permanente**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **1.2.2**
+
+#### **Coerência acadêmica do Corpo Docente à proposta do PPG**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **1.2.3**
+
+#### **Estabilidade do corpo docente permanente**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **1.2.4**
+
+#### **Percentual de docentes permanentes com dedicação exclusiva ao PPG**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **1.2.5**
+
+#### **Capacidade de captação de recursos** {.tabset}
+
+##### **Agência-Programa**
+
+```{r auto-financiadores-agencia-programa, eval = has.financiadores}
+# this chunk requires additional data that may not be available
+financiadores.raw <-
+  readxl::read_excel("PPG/Financiadores.xlsx", sheet = "financiadores")
+
+options(scipen = 10)
+
+# dplyr::select variables to display, by AGENCIA & PROGRAMA
+financiadores <-
+  financiadores.raw %>% dplyr::select("Agência", "Programa")
+
+# drop rows with empty cells
+financiadores <-
+  financiadores[complete.cases(financiadores),]
+
+# generate table (total per edital, per agency)
+table.1 <-
+  tbl_summary(
+    financiadores,
+    by = "Agência",
+    statistic = all_categorical() ~ c("{n}"),
+    missing = "no",
+    sort = all_categorical() ~ "frequency"
+  ) %>%
+  add_overall(last = TRUE,
+              col_label = "Total") %>%
+  modify_header(label = "**Agência**") %>%
+  modify_footnote(update = everything() ~ NA) %>%
+  bold_labels()
+# print table
+print(table.1)
+
+cat('\n\n')
+
+cat(
+  "*Fontes:* [**CAPES**](https://www.gov.br/capes/pt-br), [**CNPq**](https://www.gov.br/cnpq/pt-br), [**FAPERJ**](http://www.faperj.br), **UNISUAM**"
+)
+```
+
+<br>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+##### **Agência-Ano**
+
+```{r auto-financiadores-agencia-ano, eval = has.financiadores}
+# this chunk requires additional data that may not be available
+financiadores.raw <-
+  readxl::read_excel("PPG/Financiadores.xlsx", sheet = "financiadores")
+
+options(scipen = 10)
+
+financiadores.raw <-
+  readxl::read_excel("PPG/Financiadores.xlsx", sheet = "financiadores")
+
+# dplyr::select variables to display, by AGENCIA & ANO
+financiadores <-
+  financiadores.raw %>% dplyr::select("Ano", "Agência", "Total")
+
+# drop rows with empty cells
+financiadores <- financiadores[complete.cases(financiadores),]
+
+financiadores <-
+  financiadores[order(financiadores$Ano, decreasing = TRUE),]
+financiadores$Ano <- as.factor(financiadores$Ano)
+
+# generate table (total per year, per agency)
+table.2 <-
+  tbl_summary(
+    financiadores,
+    by = "Agência",
+    type = list(all_continuous() ~ "continuous"),
+    statistic = list(all_continuous() ~ c("R$ {sum}")),
+    missing = "no",
+    digits = "Total" ~ 2,
+    sort = all_categorical() ~ "frequency"
+  ) %>%
+  add_overall(last = TRUE,
+              col_label = "Total") %>%
+  modify_header(label = "**Agência**") %>%
+  modify_footnote(update = everything() ~ NA) %>%
+  bold_labels()
+# print table
+print(table.2)
+
+cat('\n\n')
+
+cat(
+  "*Fontes:* [**CAPES**](https://www.gov.br/capes/pt-br), [**CNPq**](https://www.gov.br/cnpq/pt-br), [**FAPERJ**](http://www.faperj.br), **UNISUAM**"
+)
+```
+
+<br>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+##### **Agência-Docente**
+
+```{r auto-financiadores-agencia-docentes, eval = has.financiadores}
+# this chunk requires additional data that may not be available
+financiadores.raw <-
+  readxl::read_excel("PPG/Financiadores.xlsx", sheet = "financiadores")
+
+options(scipen = 10)
+
+financiadores.raw <-
+  readxl::read_excel("PPG/Financiadores.xlsx", sheet = "financiadores")
+
+# dplyr::select variables to display, by AGENCIA & ANO
+financiadores <-
+  financiadores.raw %>% dplyr::select("Proponente", "Agência", "Total")
+
+# drop rows with empty cells
+financiadores <- financiadores[complete.cases(financiadores),]
+
+financiadores <-
+  financiadores[order(financiadores$Proponente, decreasing = TRUE),]
+financiadores$Proponente <- as.factor(financiadores$Proponente)
+
+# generate table (total per year, per agency)
+table.2 <-
+  tbl_summary(
+    financiadores,
+    by = "Agência",
+    type = list(all_continuous() ~ "continuous"),
+    statistic = list(all_continuous() ~ c("R$ {sum}")),
+    missing = "no",
+    digits = "Total" ~ 2,
+    sort = all_categorical() ~ "frequency"
+  ) %>%
+  add_overall(last = TRUE,
+              col_label = "Total") %>%
+  modify_header(label = "**Agência**") %>%
+  modify_footnote(update = everything() ~ NA) %>%
+  bold_labels()
+# print table
+print(table.2)
+
+cat('\n\n')
+
+cat(
+  "*Fontes:* [**CAPES**](https://www.gov.br/capes/pt-br), [**CNPq**](https://www.gov.br/cnpq/pt-br), [**FAPERJ**](http://www.faperj.br), **UNISUAM**"
+)
+```
+
+<br>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+##### **Docente-Ano**
+
+```{r auto-financiadores-docente-ano, eval = has.financiadores}
+# this chunk requires additional data that may not be available
+financiadores.raw <-
+  readxl::read_excel("PPG/Financiadores.xlsx", sheet = "financiadores")
+
+options(scipen = 10)
+
+financiadores.raw <-
+  readxl::read_excel("PPG/Financiadores.xlsx", sheet = "financiadores")
+
+# dplyr::select variables to display, by AGENCIA & ANO
+financiadores <-
+  financiadores.raw %>% dplyr::select("Proponente", "Ano", "Total")
+
+# drop rows with empty cells
+financiadores <- financiadores[complete.cases(financiadores),]
+
+financiadores <-
+  financiadores[order(financiadores$Proponente, decreasing = TRUE),]
+financiadores$Proponente <- as.factor(financiadores$Proponente)
+
+# generate table (total per year, per docente)
+table.2 <-
+  tbl_summary(
+    financiadores,
+    by = "Ano",
+    type = list(all_continuous() ~ "continuous"),
+    statistic = list(all_continuous() ~ c("R$ {sum}")),
+    missing = "no",
+    digits = "Total" ~ 2,
+    sort = all_categorical() ~ "frequency"
+  ) %>%
+  add_overall(last = TRUE,
+              col_label = "Total") %>%
+  modify_header(label = "**Ano**") %>%
+  modify_footnote(update = everything() ~ NA) %>%
+  bold_labels()
+# print table
+print(table.2)
+
+cat('\n\n')
+
+cat(
+  "*Fontes:* [**CAPES**](https://www.gov.br/capes/pt-br), [**CNPq**](https://www.gov.br/cnpq/pt-br), [**FAPERJ**](http://www.faperj.br), **UNISUAM**"
+)
+```
+
+<br>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+##### **Docente-Programa**
+
+```{r auto-financiadores-docente-programa, eval = has.financiadores}
+# this chunk requires additional data that may not be available
+financiadores.raw <-
+  readxl::read_excel("PPG/Financiadores.xlsx", sheet = "financiadores")
+
+options(scipen = 10)
+
+financiadores.raw <-
+  readxl::read_excel("PPG/Financiadores.xlsx", sheet = "financiadores")
+
+# dplyr::select variables to display, by AGENCIA & ANO
+financiadores <-
+  financiadores.raw %>% dplyr::select("Proponente", "Programa", "Total")
+
+# drop rows with empty cells
+financiadores <- financiadores[complete.cases(financiadores),]
+
+financiadores <-
+  financiadores[order(financiadores$Proponente, decreasing = TRUE),]
+financiadores$Proponente <- as.factor(financiadores$Proponente)
+
+# generate table (total per year, per docente)
+table.2 <-
+  tbl_summary(
+    financiadores,
+    by = "Programa",
+    type = list(all_continuous() ~ "continuous"),
+    statistic = list(all_continuous() ~ c("R$ {sum}")),
+    missing = "no",
+    digits = "Total" ~ 2,
+    sort = all_categorical() ~ "frequency"
+  ) %>%
+  add_overall(last = TRUE,
+              col_label = "Total") %>%
+  modify_header(label = "**Programa**") %>%
+  modify_footnote(update = everything() ~ NA) %>%
+  bold_labels()
+# print table
+print(table.2)
+
+cat('\n\n')
+
+cat(
+  "*Fontes:* [**CAPES**](https://www.gov.br/capes/pt-br), [**CNPq**](https://www.gov.br/cnpq/pt-br), [**FAPERJ**](http://www.faperj.br), **UNISUAM**"
+)
+```
+
+<br>
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **1.3.1**
+
+#### **Adequação da proposta ao Plano Institucional da IES**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **1.3.2**
+
+#### **Adequação do planejamento**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **1.4.1**
+
+#### **Adequação dos processos e procedimentos utilizados para a autoavaliação do Programa**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+## **2. Formação** {#formacao .tabset}
+
+<br>
+
+### **2.1.1**
+
+#### **Coerência do produto final**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **2.1.2**
+
+#### **Qualidade do produto final**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **2.2.1**
+
+#### **Produção do corpo discente em eventos científicos**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **2.2.2**
+
+#### **Produção bibliográfica dos discentes/egressos – Acadêmico**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **2.3.1**
+
+#### **Atuação dos Egressos**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **2.3.2**
+
+#### **Egressos de destaque na sociedade**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **2.4.1**
+
+#### **Produção bibliográfica total do Programa – Acadêmico**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **2.5.1**
+
+#### **Atividades de ensino nas disciplinas do PPG**
+
+```{r turmas-docentes-2024, eval = has.sucupira.files}
+# load custom function
+source("Scripts/get-initials.R", local = knitr::knit_global())
+
+# disciplinas
+sheet <- "Disciplinas"
+source("Scripts/read-xlsx-sucupira.R", local = knitr::knit_global())
+
+# get years
+source("Scripts/years-sucupira.R", local = knitr::knit_global())
+names(sucupira.list) <- as.character(anos)
+
+# bind all sheets
+periodos <-
+  names(sucupira.list)[na.omit(match(c(2021:2024), names(sucupira.list)))]
+periodo <- as.character(seq(min(periodos), max(periodos), by = 1))
+disciplinas.raw <-
+  do.call(rbind.data.frame, sucupira.list[periodos])
+disciplinas.raw <-
+  disciplinas.raw[is.na(disciplinas.raw$`Data de fim`),]
+
+# turmas
+sheet <- "Turmas"
+source("Scripts/read-xlsx-sucupira.R", local = knitr::knit_global())
+
+# get years
+source("Scripts/years-sucupira.R", local = knitr::knit_global())
+names(sucupira.list) <- as.character(anos)
+
+# bind all sheets
+periodos <-
+  names(sucupira.list)[na.omit(match(c(2021:2024), names(sucupira.list)))]
+periodo <- as.character(seq(min(periodos), max(periodos), by = 1))
+turmas.raw <- do.call(rbind.data.frame, sucupira.list[periodos])
+
+if (dim(disciplinas.raw)[1] != 0) {
+  # select level
+  course.level <- "Mestrado"
+  disciplinas.msc <-
+    disciplinas.raw[str_detect(disciplinas.raw$`Nível do Curso`, course.level), ]
+  
+  disciplinas.msc <-
+    disciplinas.raw[course.level,]
+  table.msc <-
+    cbind(
+      disciplinas.msc$`Nome da Disciplina`,
+      disciplinas.msc$`Indicadora de disciplina obrigatória`,
+      disciplinas.msc$`Quantidade de créditos`,
+      disciplinas.msc$`Carga Horária`
+    )
+  colnames(table.msc) <- c("Disciplina", "Obrigatória", "CR", "CH")
+  
+  course.level <- "Doutorado"
+  disciplinas.dsc <-
+    disciplinas.raw[str_detect(disciplinas.raw$`Nível do Curso`, course.level), ]
+  disciplinas.dsc <-
+    disciplinas.raw[course.level,]
+  table.dsc <-
+    cbind(
+      disciplinas.dsc$`Nome da Disciplina`,
+      disciplinas.dsc$`Indicadora de disciplina obrigatória`,
+      disciplinas.dsc$`Quantidade de créditos`,
+      disciplinas.dsc$`Carga Horária`
+    )
+  colnames(table.dsc) <- c("Disciplina", "Obrigatória", "CR", "CH")
+  
+  table <-
+    merge(
+      table.msc,
+      table.dsc,
+      by = "Disciplina",
+      all.x = TRUE,
+      all.y = TRUE
+    )
+  colnames(table) <-
+    c(
+      "Disciplina",
+      "Obrigatória (MA)",
+      "CR (MA)",
+      "CH (MA)",
+      "Obrigatória (DA)",
+      "CR (DA)",
+      "CH (DA)"
+    )
+  
+  # build a cross table DISCIPLINA vs. DOCENTE
+  cross.table.turmas <-
+    as.matrix(table(
+      initials(turmas.raw$`Nome da Disciplina`),
+      initials(turmas.raw$`Nome do responsável`)
+    ))
+  Responsável <- colSums(cross.table.turmas)
+  Responsável[Responsável > 0] <- "✅"
+  Responsável[Responsável == 0] <- ""
+  turmas.docentes <- rbind(Responsável, cross.table.turmas)
+  turmas.docentes[turmas.docentes > 0] <- "✔"
+  turmas.docentes[turmas.docentes == 0] <- ""
+  print(
+    kable(turmas.docentes, align = c("l", rep(
+      "c", ncol(turmas.docentes) - 2
+    ), "r")) %>% kable_styling(
+      bootstrap_options = c("striped", "hover", "condensed", "responsive"),
+      full_width = T,
+      position = "center"
+    ) %>% scroll_box(width = "100%")
+  )
+  
+  # line break
+  cat("  \n")
+  cat("  \n")
+  
+  legenda.turma <-
+    unique(cbind(
+      initials(turmas.raw$`Nome da Disciplina`),
+      turmas.raw$`Nome da Disciplina`
+    ))
+  legenda.turma <- legenda.turma[order(legenda.turma[, 1]),]
+  cat(paste(
+    "*",
+    legenda.turma[, 1],
+    ": ",
+    lapply(legenda.turma[, 2], str_to_title),
+    "*",
+    sep = "",
+    collapse = "; "
+  ))
+  
+  # line break
+  cat("  \n")
+  cat("  \n")
+  
+  legenda.doc <-
+    unique(cbind(
+      initials(turmas.raw$`Nome do responsável`),
+      turmas.raw$`Nome do responsável`
+    ))
+  legenda.doc <- legenda.doc[order(legenda.doc[, 1]),]
+  cat(paste(
+    "*",
+    legenda.doc[, 1],
+    ": ",
+    lapply(legenda.doc[, 2], str_to_title),
+    "*",
+    sep = "",
+    collapse = "; "
+  ))
+}
+
+cat('\n\n')
+cat('*Fontes:* [**Plataforma Sucupira**](https://sucupira.capes.gov.br/sucupira/)')
+cat('\n\n')
+cat('<br><a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a><br>')
+```
+
+<br>
+
+### **2.5.2**
+
+#### **Responsabilidade por PP/PTT**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **2.5.3**
+
+#### **Orientação no PPG**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **2.5.4**
+
+#### **Titulação no PPG**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **2.5.5**
+
+#### **Orientação na graduação**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+## **3. Impacto na sociedade** {#impacto .tabset}
+
+<br>
+
+### **3.1.1**
+
+#### **Produção bibliográfica indicada dos DP – Acadêmico**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **3.1.2**
+
+#### **Produção do Programa**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **3.2.1**
+
+#### **Avaliação quantitativa dos impactos do PPG**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **3.2.2**
+
+#### **Avaliação qualitativa dos impactos do PPG**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **3.3.1**
+
+#### **Visibilidade**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
+
+### **3.3.2**
+
+#### **Internacionalização e Inserção**
+
+*Em construção*
+
+<a style="float:right" href="#top"><b>Início &nbsp;</b>⬆️</a>
+
+<br>
