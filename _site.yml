@@ -194,15 +194,18 @@ navbar:
     - text: "Links"
       href: [links.html]
     - text: ""
-      icon: "fa-envelope"
-      href: [mailto:ppgfisio@ufc.br]
-    - text: ""
       icon: "fa-share-nodes"
       menu:
-        - text: ""
+        - text: "E-mail"
+          icon: "fa-envelope"
+          href: [mailto:ppgfisio@ufc.br]
+        - text: "Site institucional"
+          icon: "fa-globe"
+          href: [https://ppgfisio.ufc.br/pt/]
+        - text: "Instagram"
           icon: "fa-instagram"
           href: [https://www.instagram.com/hppgfisioufc/]
-        - text: ""
+        - text: "Facebook"
           icon: "fa-facebook"
           href: [https://www.facebook.com/people/PPGFisio-Mestrado-em-Fisioterapia-e-Funcionalidade-UFC/100071559772187]
   right:
