@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.1)  4 APR 2024 01:28
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.1)  14 APR 2024 16:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1359,11 +1359,14 @@ Missing character: There is no ⬆ (U+2B06) in font [lmroman10-regular]:mapping=
 ex-text;!
 Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
 ex-text;!
+[8]
 Missing character: There is no ⬆ (U+2B06) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[8] (./autoavaliacao.aux)
+[9] [10
+
+] (./autoavaliacao.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -1378,4 +1381,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  94i,19n,121p,1202b,496s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on autoavaliacao.pdf (12 pages).
+Output written on autoavaliacao.pdf (14 pages).
