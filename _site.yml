@@ -237,9 +237,9 @@ navbar:
         - text: "Facebook"
           icon: "fa-facebook"
           href: [https://www.facebook.com/people/PPGFisio-Mestrado-em-Fisioterapia-e-Funcionalidade-UFC/100071559772187]
-    - text: ""
-      icon: "fa-binoculars"
-      href: [https://sucupira-beta.capes.gov.br/sucupira4/observatorio/detalhamento/programas/208035]
+        - text: "Observatório CAPES"
+          icon: "fa-binoculars"
+          href: [https://sucupira-beta.capes.gov.br/sucupira4/observatorio/detalhamento/programas/208035]
     - text: ""
       icon: "fa-github"
       href: [https://github.com/FerreiraAS/observatorio]
