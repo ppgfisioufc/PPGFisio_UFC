@@ -191,8 +191,6 @@ navbar:
           href: [impactos.html#impacto-sociocultural]
         - text: "Ações durante a pandemia"
           href: [impactos.html#acoes-pandemia]
-    - text: "Galeria"
-      href: [galeria.html]
     - text: "Downloads"
       href: [downloads.html]
     - text: "Autoavaliação"
