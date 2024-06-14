@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.9)  11 JUN 2024 23:19
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.14)  14 JUN 2024 18:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **autoavaliacao.tex
 (./autoavaliacao.tex
-LaTeX2e <2024-06-01>
+LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2024/02/08 v1.4n Standard LaTeX document class
@@ -1356,7 +1356,7 @@ Overfull \hbox (16.42857pt too wide) in paragraph at lines 400--400
  []
 
 
-Overfull \vbox (4674.43987pt too high) has occurred while \output is active []
+Overfull \vbox (4661.01724pt too high) has occurred while \output is active []
 
 
 
@@ -1548,7 +1548,7 @@ Overfull \hbox (7.56502pt too wide) in paragraph at lines 577--577
  []
 
 
-Overfull \vbox (2221.62349pt too high) has occurred while \output is active []
+Overfull \vbox (2208.20087pt too high) has occurred while \output is active []
 
 
 
@@ -1626,7 +1626,7 @@ Overfull \hbox (299.62302pt too wide) in paragraph at lines 845--883
 
 [46] (./autoavaliacao.aux)
  ***********
-LaTeX2e <2024-06-01>
+LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
  ***********
 
@@ -1634,10 +1634,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 37242 strings out of 474256
- 721269 string characters out of 5742728
- 2021543 words of memory out of 5000000
- 59337 multiletter control sequences out of 15000+600000
+ 37240 strings out of 474256
+ 721249 string characters out of 5742727
+ 2020557 words of memory out of 5000000
+ 59335 multiletter control sequences out of 15000+600000
  594537 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  94i,19n,122p,1202b,503s stack positions out of 10000i,1000n,20000p,200000b,200000s
