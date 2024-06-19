@@ -1952,7 +1952,7 @@ if (has.posdocs) {
 }
 ```
 
-```{r sintese-posdoc-carousel, eval = has.posdocs}
+```{r sintese-posdoc-carousel, eval = and(has.sucupira.files, has.posdocs)}
 cat('<br>')
 cat('<br>')
 
