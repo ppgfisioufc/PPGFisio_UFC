@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.8.9)  18 AUG 2024 19:36
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.8.9)  18 AUG 2024 21:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1084,11 +1084,44 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (/usr/local/texlive/2024/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
 Package: draftwatermark 2024/03/04 3.3 Put a gray textual watermark on document
  pages
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2024-08-01 v3.3.20 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count395
+\l__siunitx_number_exponent_fixed_int=\count396
+\l__siunitx_number_min_decimal_int=\count397
+\l__siunitx_number_min_integer_int=\count398
+\l__siunitx_number_round_precision_int=\count399
+\l__siunitx_number_lower_threshold_int=\count400
+\l__siunitx_number_upper_threshold_int=\count401
+\l__siunitx_number_group_first_int=\count402
+\l__siunitx_number_group_size_int=\count403
+\l__siunitx_number_group_minimum_int=\count404
+\l__siunitx_angle_tmp_dim=\dimen371
+\l__siunitx_angle_marker_box=\box125
+\l__siunitx_angle_unit_box=\box126
+\l__siunitx_compound_count_int=\count405
+(/usr/local/texlive/2024/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+)
+\l__siunitx_table_tmp_box=\box127
+\l__siunitx_table_tmp_dim=\dimen372
+\l__siunitx_table_column_width_dim=\dimen373
+\l__siunitx_table_integer_box=\box128
+\l__siunitx_table_decimal_box=\box129
+\l__siunitx_table_uncert_box=\box130
+\l__siunitx_table_before_box=\box131
+\l__siunitx_table_after_box=\box132
+\l__siunitx_table_before_dim=\dimen374
+\l__siunitx_table_carry_dim=\dimen375
+\l__siunitx_unit_tmp_int=\count406
+\l__siunitx_unit_position_int=\count407
+\l__siunitx_unit_total_int=\count408
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
 File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
-\BKM@id=\count395
+\BKM@id=\count409
 )) (/usr/local/texlive/2024/texmf-dist/tex/latex/xurl/xurl.sty
 Package: xurl 2022/01/09 v 0.10 modify URL breaks
 ) (./autoavaliacao.aux
@@ -1101,40 +1134,40 @@ LaTeX Warning: Label `tab:turmas' multiply defined.
 )
 \openout1 = `autoavaliacao.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 162.
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 171.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 162.
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 171.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 162.
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 171.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 162.
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 171.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 162.
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 171.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 162.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 171.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 162.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 171.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 0.9999964596882403.
@@ -1165,7 +1198,7 @@ pt=math;language=dflt;"
 pt=math;language=dflt;"
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 162.
+(Font)              scaled to size 10.0pt on input line 171.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 0.9999964596882403.
@@ -1208,18 +1241,18 @@ ath.otf]/OT:script=math;language=dflt;+ssty=1;"
 pt=math;language=dflt;"
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 162.
+(Font)              scaled to size 10.0pt on input line 171.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 162.
+(Font)              `operators' in the math version `normal' on input line 171.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
- line 162.
+ line 171.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 162.
+(Font)              `operators' in the math version `bold' on input line 171.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
-t line 162.
+t line 171.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 0.9999964596882403.
@@ -1293,15 +1326,15 @@ ript=math;language=dflt;"<6-8.5>s*[1.000096459334209]"[latinmodern-math.otf]/OT
 t=math;language=dflt;"
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 162.
+(Font)              `symbols' in the math version `normal' on input line 171.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 162.
+t line 171.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 162.
+(Font)              `symbols' in the math version `bold' on input line 171.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
-t line 162.
+t line 171.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 0.9999964596882403.
@@ -1370,22 +1403,22 @@ pt=math;language=dflt;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 1
-62.
+71.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
-t line 162.
+t line 171.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 162
+(Font)              `largesymbols' in the math version `bold' on input line 171
 .
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
-t line 162.
-LaTeX Info: Redefining \microtypecontext on input line 162.
-Package microtype Info: Applying patch `item' on input line 162.
-Package microtype Info: Applying patch `toc' on input line 162.
-Package microtype Info: Applying patch `eqnum' on input line 162.
-Package microtype Info: Applying patch `footnote' on input line 162.
-Package microtype Info: Applying patch `verbatim' on input line 162.
+t line 171.
+LaTeX Info: Redefining \microtypecontext on input line 171.
+Package microtype Info: Applying patch `item' on input line 171.
+Package microtype Info: Applying patch `toc' on input line 171.
+Package microtype Info: Applying patch `eqnum' on input line 171.
+Package microtype Info: Applying patch `footnote' on input line 171.
+Package microtype Info: Applying patch `verbatim' on input line 171.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: No adjustment of tracking.
@@ -1433,7 +1466,15 @@ ern Roman (RS)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/ninecolors/ninecolors.sty
 Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
 )
-Package hyperref Info: Link coloring OFF on input line 162.
+Package hyperref Info: Link coloring OFF on input line 171.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/translations/translations-basic-d
+ictionary-brazil.trsl
+File: translations-basic-dictionary-brazil.trsl (brazil translation file `trans
+lations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `brazil'. on input line 171.
 File: PPG/Images/Cover-1.pdf Graphic file (type pdf)
 <use PPG/Images/Cover-1.pdf>
 File: PPG/Images/Cover-1.pdf Graphic file (type pdf)
@@ -1525,7 +1566,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 [3]
 
 [4]
-Overfull \hbox (251.1532pt too wide) in paragraph at lines 326--339
+Overfull \hbox (251.1532pt too wide) in paragraph at lines 335--348
  [][] 
  []
 
@@ -1544,8 +1585,287 @@ Overfull \hbox (251.1532pt too wide) in paragraph at lines 326--339
 [10]
 
 [11]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 ATIVIDADES COM-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 PLEMENTARES DE
+ []
+
+
+Underfull \hbox (badness 4792) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 AVALIAÇÃO E CON-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 AVALIAÇÃO E IN-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 TERVENÇÃO DAS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 AVALIAÇÃO E IN-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 TERVENÇÃO FISI-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 OTERAPÊUTICA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 NO PROCESSO DE
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 AVALIAÇÃO E PRES-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 MENTO RESISTIDO
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 503--503
+\TU/lmr/m/n/10 PARA SAÚDE E DE-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 CONTROLE E DE-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 SENVOLVIMENTO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 MOTOR DO NASCI-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 MENTO AO ENVE-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 ESTUDOS SOBRE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 AVALIAÇÃO MUSCU-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 METODOLOGIA DA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 PESQUISA CIENTÍ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 PLASTICIDADE DO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 SISTEMA MUSCULO-
+ []
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 REDAÇÃO E PUBLI-
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 503--503
+\TU/lmr/m/n/10 ÇÃO DO DESEMPE-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 SEMINÁRIOS AVAN-
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 TEORIA E PRÁTICA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 DA INTERVENÇÃO
+ []
+
+> Step: build the whole table.
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 ATIVIDADES COM-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 PLEMENTARES DE
+ []
+
+
+Underfull \hbox (badness 4792) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 AVALIAÇÃO E CON-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 AVALIAÇÃO E IN-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 TERVENÇÃO DAS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 AVALIAÇÃO E IN-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 TERVENÇÃO FISI-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 OTERAPÊUTICA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 NO PROCESSO DE
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 AVALIAÇÃO E PRES-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 MENTO RESISTIDO
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 503--503
+\TU/lmr/m/n/10 PARA SAÚDE E DE-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 CONTROLE E DE-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 SENVOLVIMENTO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 MOTOR DO NASCI-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 MENTO AO ENVE-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 ESTUDOS SOBRE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 AVALIAÇÃO MUSCU-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 METODOLOGIA DA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 PESQUISA CIENTÍ-
+ []
+
+
 
 [12]
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 PLASTICIDADE DO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 SISTEMA MUSCULO-
+ []
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 REDAÇÃO E PUBLI-
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 503--503
+\TU/lmr/m/n/10 ÇÃO DO DESEMPE-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 SEMINÁRIOS AVAN-
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 503--503
+[]\TU/lmr/m/n/10 TEORIA E PRÁTICA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/lmr/m/n/10 DA INTERVENÇÃO
+ []
+
+
 
 [13]
 
@@ -1578,13 +1898,13 @@ Overfull \hbox (251.1532pt too wide) in paragraph at lines 326--339
 [27]
 
 [28]
-Overfull \hbox (226.05316pt too wide) in paragraph at lines 721--741
+
+[29]
+Overfull \hbox (226.05316pt too wide) in paragraph at lines 762--782
  [][] 
  []
 
 
-
-[29]
 
 [30]
 
@@ -1597,13 +1917,13 @@ Overfull \hbox (226.05316pt too wide) in paragraph at lines 721--741
 [34]
 
 [35]
-Overfull \hbox (299.5232pt too wide) in paragraph at lines 825--863
+
+[36]
+Overfull \hbox (299.5232pt too wide) in paragraph at lines 866--904
  [][] 
  []
 
 
-
-[36]
 
 [37]
 
@@ -1613,7 +1933,9 @@ Overfull \hbox (299.5232pt too wide) in paragraph at lines 825--863
 
 [40]
 
-[41] (./autoavaliacao.aux)
+[41]
+
+[42] (./autoavaliacao.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-07-20>
@@ -1623,12 +1945,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 39698 strings out of 474235
- 783501 string characters out of 5742254
- 1943609 words of memory out of 5000000
- 61770 multiletter control sequences out of 15000+600000
- 561728 words of font info for 71 fonts, out of 8000000 for 9000
+ 43816 strings out of 474235
+ 915283 string characters out of 5742254
+ 1958609 words of memory out of 5000000
+ 65876 multiletter control sequences out of 15000+600000
+ 564007 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,19n,123p,1202b,492s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,19n,123p,1202b,1254s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on autoavaliacao.pdf (44 pages).
+Output written on autoavaliacao.pdf (45 pages).
