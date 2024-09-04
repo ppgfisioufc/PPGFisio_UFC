@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.8.31)  4 SEP 2024 13:49
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.8.31)  4 SEP 2024 16:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1566,17 +1566,26 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 [3]
 
 [4]
-Overfull \hbox (251.1532pt too wide) in paragraph at lines 336--349
+
+[5]
+Overfull \hbox (251.1532pt too wide) in paragraph at lines 358--370
  [][] 
  []
 
 
 
-[5]
-
 [6]
+Overfull \hbox (251.1532pt too wide) in paragraph at lines 382--395
+ [][] 
+ []
+
+
 
 [7]
+
+[8]
+
+[9]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1585,283 +1594,279 @@ Overfull \hbox (251.1532pt too wide) in paragraph at lines 336--349
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 ATIVIDADES COM-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 PLEMENTARES DE
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 429--429
+Underfull \hbox (badness 4792) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 AVALIAÇÃO E CON-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 AVALIAÇÃO E IN-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 TERVENÇÃO DAS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 AVALIAÇÃO E IN-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 TERVENÇÃO FISI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 OTERAPÊUTICA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 NO PROCESSO DE
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 429--429
+Underfull \hbox (badness 1418) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 AVALIAÇÃO E PRES-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 MENTO RESISTIDO
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 429--429
+Underfull \hbox (badness 1742) in paragraph at lines 475--475
 \TU/lmr/m/n/10 PARA SAÚDE E DE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 CONTROLE E DE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 SENVOLVIMENTO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 MOTOR DO NASCI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 MENTO AO ENVE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 ESTUDOS SOBRE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 AVALIAÇÃO MUSCU-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 METODOLOGIA DA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 PESQUISA CIENTÍ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 PLASTICIDADE DO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 SISTEMA MUSCULO-
  []
 
 
-Underfull \hbox (badness 4205) in paragraph at lines 429--429
+Underfull \hbox (badness 4205) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 REDAÇÃO E PUBLI-
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 429--429
+Underfull \hbox (badness 6461) in paragraph at lines 475--475
 \TU/lmr/m/n/10 ÇÃO DO DESEMPE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 SEMINÁRIOS AVAN-
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 429--429
+Underfull \hbox (badness 2343) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 TEORIA E PRÁTICA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 DA INTERVENÇÃO
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 ATIVIDADES COM-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 PLEMENTARES DE
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 429--429
+Underfull \hbox (badness 4792) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 AVALIAÇÃO E CON-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 AVALIAÇÃO E IN-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 TERVENÇÃO DAS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 AVALIAÇÃO E IN-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 TERVENÇÃO FISI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 OTERAPÊUTICA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 NO PROCESSO DE
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 429--429
+Underfull \hbox (badness 1418) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 AVALIAÇÃO E PRES-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 MENTO RESISTIDO
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 429--429
+Underfull \hbox (badness 1742) in paragraph at lines 475--475
 \TU/lmr/m/n/10 PARA SAÚDE E DE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 CONTROLE E DE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 SENVOLVIMENTO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 MOTOR DO NASCI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 MENTO AO ENVE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 ESTUDOS SOBRE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 AVALIAÇÃO MUSCU-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 METODOLOGIA DA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 PESQUISA CIENTÍ-
  []
 
 
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 PLASTICIDADE DO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 SISTEMA MUSCULO-
  []
 
 
-Underfull \hbox (badness 4205) in paragraph at lines 429--429
+Underfull \hbox (badness 4205) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 REDAÇÃO E PUBLI-
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 429--429
+Underfull \hbox (badness 6461) in paragraph at lines 475--475
 \TU/lmr/m/n/10 ÇÃO DO DESEMPE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 SEMINÁRIOS AVAN-
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 429--429
+Underfull \hbox (badness 2343) in paragraph at lines 475--475
 []\TU/lmr/m/n/10 TEORIA E PRÁTICA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \TU/lmr/m/n/10 DA INTERVENÇÃO
  []
 
 
-
-[9]
-
-[10]
 
 [11]
 
@@ -1894,22 +1899,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 429--429
 [25]
 
 [26]
-Overfull \hbox (226.05316pt too wide) in paragraph at lines 695--715
- [][] 
- []
-
-
 
 [27]
-Overfull \hbox (13.80312pt too wide) in paragraph at lines 727--757
+
+[28]
+Overfull \hbox (226.05316pt too wide) in paragraph at lines 741--761
  [][] 
  []
 
 
 
-[28]
-
 [29]
+Overfull \hbox (13.80312pt too wide) in paragraph at lines 773--803
+ [][] 
+ []
+
+
 
 [30]
 
@@ -1926,15 +1931,15 @@ Overfull \hbox (13.80312pt too wide) in paragraph at lines 727--757
 [36]
 
 [37]
-Overfull \hbox (299.5232pt too wide) in paragraph at lines 885--923
- [][] 
- []
-
-
 
 [38]
 
 [39]
+Overfull \hbox (299.5232pt too wide) in paragraph at lines 931--969
+ [][] 
+ []
+
+
 
 [40]
 
@@ -1944,7 +1949,11 @@ Overfull \hbox (299.5232pt too wide) in paragraph at lines 885--923
 
 [43]
 
-[44] (./autoavaliacao.aux)
+[44]
+
+[45]
+
+[46] (./autoavaliacao.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
@@ -1954,12 +1963,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 43817 strings out of 474235
- 915458 string characters out of 5742253
- 1959609 words of memory out of 5000000
- 65877 multiletter control sequences out of 15000+600000
+ 43819 strings out of 474235
+ 915486 string characters out of 5742253
+ 1958609 words of memory out of 5000000
+ 65879 multiletter control sequences out of 15000+600000
  564007 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,19n,123p,1202b,1254s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on autoavaliacao.pdf (47 pages).
+Output written on autoavaliacao.pdf (49 pages).
