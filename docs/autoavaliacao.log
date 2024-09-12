@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.10)  11 SEP 2024 11:55
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.10)  11 SEP 2024 21:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3352,23 +3352,33 @@ Underfull \hbox (badness 1281) in paragraph at lines 508--508
 [14
 
 ]
+Overfull \hbox (6.82497pt too wide) in paragraph at lines 582--582
+[]\TU/lmr/bx/n/10 Obrigatória|  
+ []
+
+
+Overfull \hbox (236.91014pt too wide) in paragraph at lines 558--583
+ [][] 
+ []
+
+
 
 [15]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 572--590
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 603--621
  [][] 
  []
 
 
 
 [16]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 608--626
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 639--657
  [][] 
  []
 
 
 
 [17]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 643--677
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 674--708
  [][] 
  []
 
@@ -3413,7 +3423,7 @@ Overfull \vbox (91.42386pt too high) has occurred while \output is active []
 [33]
 
 [34]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 900--930
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 931--961
  [][] 
  []
 
@@ -3428,252 +3438,252 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 900--930
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 1122) in paragraph at lines 1001--1001
+Underfull \hbox (badness 1122) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 De Avaliação E
  []
 
 
-Underfull \hbox (badness 5741) in paragraph at lines 1001--1001
+Underfull \hbox (badness 5741) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 Intervenção No
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 Sistema Mus-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 culoesquelético
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 Nos Diferentes
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 1001--1001
+Underfull \hbox (badness 1122) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 De Avaliação E
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 1001--1001
+Underfull \hbox (badness 2103) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 Sistemas Cardi-
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 1001--1001
+Underfull \hbox (badness 1292) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 orrespiratório E
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Alexandre Igor
  []
 
 
-Underfull \hbox (badness 7012) in paragraph at lines 1001--1001
+Underfull \hbox (badness 7012) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Ana Carla Lima
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Camila Ferreira
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Claudio De Oli-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Daniela Gardano
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 1001--1001
+Underfull \hbox (badness 1997) in paragraph at lines 1032--1032
 \TU/lmr/m/n/10 Bucharles Montal-
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 1001--1001
+Underfull \hbox (badness 3612) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Fabianna Resende
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Gabriel Peixoto
  []
 
 
-Underfull \hbox (badness 6063) in paragraph at lines 1001--1001
+Underfull \hbox (badness 6063) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Jose Carlos Tat-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Lidiane Andrea
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Mayle Andrade
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Nataly Gurgel
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Pedro Olavo De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Simony Lira Do
  []
 
 
-Underfull \hbox (badness 3439) in paragraph at lines 1001--1001
+Underfull \hbox (badness 3439) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Tulio Luiz Banja
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 1001--1001
+Underfull \hbox (badness 2020) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Vilena Barros De
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 1122) in paragraph at lines 1001--1001
+Underfull \hbox (badness 1122) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 De Avaliação E
  []
 
 
-Underfull \hbox (badness 5741) in paragraph at lines 1001--1001
+Underfull \hbox (badness 5741) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 Intervenção No
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 Sistema Mus-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 culoesquelético
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 Nos Diferentes
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 1001--1001
+Underfull \hbox (badness 1122) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 De Avaliação E
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 1001--1001
+Underfull \hbox (badness 2103) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 Sistemas Cardi-
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 1001--1001
+Underfull \hbox (badness 1292) in paragraph at lines 1032--1032
 \TU/lmr/bx/n/10 orrespiratório E
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Alexandre Igor
  []
 
 
-Underfull \hbox (badness 7012) in paragraph at lines 1001--1001
+Underfull \hbox (badness 7012) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Ana Carla Lima
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Camila Ferreira
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Claudio De Oli-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Daniela Gardano
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 1001--1001
+Underfull \hbox (badness 1997) in paragraph at lines 1032--1032
 \TU/lmr/m/n/10 Bucharles Montal-
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 1001--1001
+Underfull \hbox (badness 3612) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Fabianna Resende
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Gabriel Peixoto
  []
 
 
-Underfull \hbox (badness 6063) in paragraph at lines 1001--1001
+Underfull \hbox (badness 6063) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Jose Carlos Tat-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Lidiane Andrea
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Mayle Andrade
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Nataly Gurgel
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Pedro Olavo De
  []
 
 
 
 [36]
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Simony Lira Do
  []
 
 
-Underfull \hbox (badness 3439) in paragraph at lines 1001--1001
+Underfull \hbox (badness 3439) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Tulio Luiz Banja
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 1001--1001
+Underfull \hbox (badness 2020) in paragraph at lines 1032--1032
 []\TU/lmr/m/n/10 Vilena Barros De
  []
 
 
 
 [37]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 1015--1022
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 1046--1053
  [][] 
  []
 
@@ -3725,10 +3735,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 41355 strings out of 476218
- 861262 string characters out of 5785323
+ 41356 strings out of 476218
+ 861289 string characters out of 5785323
  1980609 words of memory out of 5000000
- 63342 multiletter control sequences out of 15000+600000
+ 63343 multiletter control sequences out of 15000+600000
  570638 words of font info for 80 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
  99i,19n,123p,458b,1490s stack positions out of 10000i,1000n,20000p,200000b,200000s
