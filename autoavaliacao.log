@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.13)  13 SEP 2024 19:45
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.13)  15 SEP 2024 10:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1126,6 +1126,105 @@ File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
 Package: xurl 2022/01/09 v 0.10 modify URL breaks
 ) (./autoavaliacao.aux
 
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
+LaTeX Warning: Label `tab:1-1-1-PP-DP-landscape' multiply defined.
+
+
 LaTeX Warning: Label `tab:turmas' multiply defined.
 
 
@@ -1585,652 +1684,13 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 398--411
 
 
 [6]
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-
-Overfull \hbox (6.7111pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 ID 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Underfull \hbox (badness 2671) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Claudio De Oliveira
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Marcela De Castro
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Underfull \hbox (badness 1448) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Avaliação Da Funcionalidade Com
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 3138) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Shamyr Sulyvan De
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Underfull \hbox (badness 3323) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Alexandre Igor Ara-
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Rafael Barreto De
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Underfull \hbox (badness 3919) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Rodrigo Ribeiro De
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 10 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 11 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 1087) in paragraph at lines 508--508
-\TU/lmr/m/n/10 tica Em Indivíduos Com Doenças
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 12 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 13 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Underfull \hbox (badness 3281) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Mayle Andrade Mo-
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 14 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 15 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 16 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 2111) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Nataly Gurgel Cam-
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 17 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 18 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 19 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 20 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 1874) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Avaliação Respiratória e Sintomas
- []
-
-
-Underfull \hbox (badness 2111) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Nataly Gurgel Cam-
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 21 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 22 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 23 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Marcela De Castro
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 24 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 25 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 3138) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Shamyr Sulyvan De
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 26 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Underfull \hbox (badness 3919) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Rodrigo Ribeiro De
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 27 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 3668) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Lidiane Andrea Oli-
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 28 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Mario Antonio De
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 29 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 4792) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Magno Markus Fer-
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 30 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 31 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 32 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 33 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 34 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-> Step: build the whole table.
-
-Overfull \hbox (6.7111pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 ID 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Underfull \hbox (badness 2671) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Claudio De Oliveira
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Marcela De Castro
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Underfull \hbox (badness 1448) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Avaliação Da Funcionalidade Com
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
+Overfull \hbox (3.48088pt too wide) in paragraph at lines 431--431
+[]\TU/lmr/bx/n/10 Natureza|  
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Shamyr Sulyvan De
+Overfull \hbox (93.03777pt too wide) in paragraph at lines 425--432
+ [][] 
  []
 
 
@@ -2238,572 +1698,26 @@ Underfull \hbox (badness 3138) in paragraph at lines 508--508
 [7
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Underfull \hbox (badness 3323) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Alexandre Igor Ara-
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Rafael Barreto De
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Underfull \hbox (badness 3919) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Rodrigo Ribeiro De
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 10 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
 
 [8]
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 11 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 1087) in paragraph at lines 508--508
-\TU/lmr/m/n/10 tica Em Indivíduos Com Doenças
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 12 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 13 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Underfull \hbox (badness 3281) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Mayle Andrade Mo-
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 14 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 15 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
 
 [9]
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 16 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 2111) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Nataly Gurgel Cam-
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 17 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 18 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 19 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 20 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 1874) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Avaliação Respiratória e Sintomas
- []
-
-
-Underfull \hbox (badness 2111) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Nataly Gurgel Cam-
- []
-
-
 
 [10]
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 21 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 22 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 23 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Marcela De Castro
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 24 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 25 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 3138) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Shamyr Sulyvan De
- []
-
-
 
 [11]
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 26 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Underfull \hbox (badness 3919) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Rodrigo Ribeiro De
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 27 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 3668) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Lidiane Andrea Oli-
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 28 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Mario Antonio De
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 29 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Underfull \hbox (badness 4792) in paragraph at lines 508--508
-[]\TU/lmr/m/n/10 Magno Markus Fer-
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 30 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
 
 [12]
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 31 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 32 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 venção No Sistema
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Musculoesquelético
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 33 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
-Overfull \hbox (5.0311pt too wide) in paragraph at lines 508--508
-[]\TU/lmr/bx/n/10 34 
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 508--508
-\TU/lmr/m/n/10 Avaliação e Interven-
- []
-
-
 
 [13]
 
-[14
-
-]
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-
-Underfull \hbox (badness 1286) in paragraph at lines 608--608
-[]\TU/lmr/bx/n/10 Avaliação e Intervenção Fisioterapêutica No
- []
-
-
-Underfull \hbox (badness 1852) in paragraph at lines 608--608
-[]\TU/lmr/bx/n/10 Avaliação e Intervenção Nas Condições De
- []
-
-> Step: build the whole table.
-
-Underfull \hbox (badness 1286) in paragraph at lines 608--608
-[]\TU/lmr/bx/n/10 Avaliação e Intervenção Fisioterapêutica No
- []
-
-
-Underfull \hbox (badness 1852) in paragraph at lines 608--608
-[]\TU/lmr/bx/n/10 Avaliação e Intervenção Nas Condições De
- []
-
-
+[14]
 
 [15]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 628--645
- [][] 
- []
-
-
 
 [16]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 663--680
- [][] 
- []
-
-
 
 [17]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 697--731
- [][] 
- []
-
-
 
 [18]
 
@@ -2828,281 +1742,80 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 697--731
 [28]
 
 [29]
-Overfull \vbox (29.31442pt too high) has occurred while \output is active []
-
-
 
 [30]
 
 [31]
-Overfull \vbox (91.42386pt too high) has occurred while \output is active []
-
-
 
 [32]
 
 [33]
 
 [34]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 954--984
- [][] 
- []
-
-
 
 [35]
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-
-Underfull \hbox (badness 1122) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 De Avaliação E
- []
-
-
-Underfull \hbox (badness 5741) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 Intervenção No
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 Sistema Mus-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 culoesquelético
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 Nos Diferentes
- []
-
-
-Underfull \hbox (badness 1122) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 De Avaliação E
- []
-
-
-Underfull \hbox (badness 2103) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 Sistemas Cardi-
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 orrespiratório E
- []
-
-
-Underfull \hbox (badness 7613) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Ana Carla Lima
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Camila Ferreira
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Claudio De Oli-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Daniela Gardano
- []
-
-
-Underfull \hbox (badness 5133) in paragraph at lines 1055--1055
-\TU/lmr/m/n/10 Bucharles Montal-
- []
-
-
-Underfull \hbox (badness 3612) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Fabianna Resende
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Gabriel Peixoto
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Jose Carlos Tat-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Nataly Gurgel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Pedro Olavo De
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Simony Lira Do
- []
-
-
-Underfull \hbox (badness 3792) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Tulio Luiz Banja
- []
-
-
-Underfull \hbox (badness 2285) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Vilena Barros De
- []
-
-> Step: build the whole table.
-
-Underfull \hbox (badness 1122) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 De Avaliação E
- []
-
-
-Underfull \hbox (badness 5741) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 Intervenção No
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 Sistema Mus-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 culoesquelético
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 Nos Diferentes
- []
-
-
-Underfull \hbox (badness 1122) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 De Avaliação E
- []
-
-
-Underfull \hbox (badness 2103) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 Sistemas Cardi-
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 1055--1055
-\TU/lmr/bx/n/10 orrespiratório E
- []
-
-
-Underfull \hbox (badness 7613) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Ana Carla Lima
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Camila Ferreira
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Claudio De Oli-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Daniela Gardano
- []
-
-
-Underfull \hbox (badness 5133) in paragraph at lines 1055--1055
-\TU/lmr/m/n/10 Bucharles Montal-
- []
-
-
-Underfull \hbox (badness 3612) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Fabianna Resende
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Gabriel Peixoto
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Jose Carlos Tat-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Nataly Gurgel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Pedro Olavo De
- []
-
-
 
 [36]
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Simony Lira Do
- []
-
-
-Underfull \hbox (badness 3792) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Tulio Luiz Banja
- []
-
-
-Underfull \hbox (badness 2285) in paragraph at lines 1055--1055
-[]\TU/lmr/m/n/10 Vilena Barros De
- []
-
-
 
 [37]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 1069--1076
- [][] 
- []
-
-
 
 [38]
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-> Step: build the whole table.
-
 
 [39]
 
 [40]
 
-[41]
+[41
+
+]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+
+Underfull \hbox (badness 1286) in paragraph at lines 957--957
+[]\TU/lmr/bx/n/10 Avaliação e Intervenção Fisioterapêutica No
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 957--957
+[]\TU/lmr/bx/n/10 Avaliação e Intervenção Nas Condições De
+ []
+
+> Step: build the whole table.
+
+Underfull \hbox (badness 1286) in paragraph at lines 957--957
+[]\TU/lmr/bx/n/10 Avaliação e Intervenção Fisioterapêutica No
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 957--957
+[]\TU/lmr/bx/n/10 Avaliação e Intervenção Nas Condições De
+ []
+
+
 
 [42]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 977--994
+ [][] 
+ []
+
+
 
 [43]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 1012--1029
+ [][] 
+ []
+
+
 
 [44]
-Overfull \vbox (224.72902pt too high) has occurred while \output is active []
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 1046--1080
+ [][] 
+ []
 
 
 
@@ -3116,7 +1829,308 @@ Overfull \vbox (224.72902pt too high) has occurred while \output is active []
 
 [49]
 
-[50] (./autoavaliacao.aux)
+[50]
+
+[51]
+
+[52]
+
+[53]
+
+[54]
+
+[55]
+
+[56]
+Overfull \vbox (29.31442pt too high) has occurred while \output is active []
+
+
+
+[57]
+
+[58]
+Overfull \vbox (91.42386pt too high) has occurred while \output is active []
+
+
+
+[59]
+
+[60]
+
+[61]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 1303--1333
+ [][] 
+ []
+
+
+
+[62]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+
+Underfull \hbox (badness 1122) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 De Avaliação E
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 Intervenção No
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 Sistema Mus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 culoesquelético
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 Nos Diferentes
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 De Avaliação E
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 Sistemas Cardi-
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 orrespiratório E
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Ana Carla Lima
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Camila Ferreira
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Claudio De Oli-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Daniela Gardano
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 1404--1404
+\TU/lmr/m/n/10 Bucharles Montal-
+ []
+
+
+Underfull \hbox (badness 3612) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Fabianna Resende
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Gabriel Peixoto
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Jose Carlos Tat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Nataly Gurgel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Pedro Olavo De
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Simony Lira Do
+ []
+
+
+Underfull \hbox (badness 3792) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Tulio Luiz Banja
+ []
+
+
+Underfull \hbox (badness 2285) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Vilena Barros De
+ []
+
+> Step: build the whole table.
+
+Underfull \hbox (badness 1122) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 De Avaliação E
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 Intervenção No
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 Sistema Mus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 culoesquelético
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 Nos Diferentes
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 De Avaliação E
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 Sistemas Cardi-
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 1404--1404
+\TU/lmr/bx/n/10 orrespiratório E
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Ana Carla Lima
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Camila Ferreira
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Claudio De Oli-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Daniela Gardano
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 1404--1404
+\TU/lmr/m/n/10 Bucharles Montal-
+ []
+
+
+Underfull \hbox (badness 3612) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Fabianna Resende
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Gabriel Peixoto
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Jose Carlos Tat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Nataly Gurgel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Pedro Olavo De
+ []
+
+
+
+[63]
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Simony Lira Do
+ []
+
+
+Underfull \hbox (badness 3792) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Tulio Luiz Banja
+ []
+
+
+Underfull \hbox (badness 2285) in paragraph at lines 1404--1404
+[]\TU/lmr/m/n/10 Vilena Barros De
+ []
+
+
+
+[64]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 1418--1425
+ [][] 
+ []
+
+
+
+[65]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+
+
+[66]
+
+[67]
+
+[68]
+
+[69]
+
+[70]
+
+[71]
+Overfull \vbox (224.72902pt too high) has occurred while \output is active []
+
+
+
+[72]
+
+[73]
+
+[74]
+
+[75]
+
+[76]
+
+[77] (./autoavaliacao.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
@@ -3126,12 +2140,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 44151 strings out of 474235
- 924677 string characters out of 5742253
- 2003816 words of memory out of 5000000
- 66211 multiletter control sequences out of 15000+600000
- 572917 words of font info for 83 fonts, out of 8000000 for 9000
+ 43981 strings out of 474235
+ 919141 string characters out of 5742253
+ 1557936 words of memory out of 5000000
+ 66041 multiletter control sequences out of 15000+600000
+ 568013 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,19n,123p,1202b,1490s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,19n,123p,1202b,1211s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on autoavaliacao.pdf (53 pages).
+Output written on autoavaliacao.pdf (80 pages).
