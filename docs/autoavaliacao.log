@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.13)  20 SEP 2024 21:24
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.22)  23 SEP 2024 06:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -337,7 +337,7 @@ Package graphics Info: Driver file: xetex.def on input line 106.
 \Gin@req@height=\dimen182
 \Gin@req@width=\dimen183
 ) (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2024/08/29 v24.9 The Babel package
+Package: babel 2024/09/18 v24.10 The Babel package
 \babel@savecnt=\count312
 \U@D=\dimen184
 \l@unhyphenated=\language89
@@ -1593,38 +1593,23 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 388--407
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 2221) in paragraph at lines 440--440
-\TU/lmr/m/n/10 Ao Desenvolvimento Cienti-
+Underfull \hbox (badness 2689) in paragraph at lines 440--440
+[]\TU/lmr/m/n/10 (1) Fundacao Cearense De
  []
 
 
-Underfull \hbox (badness 3323) in paragraph at lines 440--440
-[]\TU/lmr/m/n/10 Conselho Nacional De De-
+Underfull \hbox (badness 3907) in paragraph at lines 440--440
+\TU/lmr/m/n/10 Apoio Ao Desenvolvimento
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
-\TU/lmr/m/n/10 senvolvimento Cientifico e
+Underfull \hbox (badness 4832) in paragraph at lines 440--440
+[]\TU/lmr/m/n/10 (1) Conselho Nacional De
  []
 
 
-Underfull \hbox (badness 3323) in paragraph at lines 440--440
-[]\TU/lmr/m/n/10 Conselho Nacional De De-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
-\TU/lmr/m/n/10 senvolvimento Cientifico e
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
-\TU/lmr/m/n/10 Tecnologico-Cnpq; Funda-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
-\TU/lmr/m/n/10 Desenvolvimento Cientifico
+Underfull \hbox (badness 4832) in paragraph at lines 440--440
+[]\TU/lmr/m/n/10 (1) Conselho Nacional De
  []
 
 
@@ -1638,49 +1623,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 440--440
  []
 
 
-Underfull \hbox (badness 3323) in paragraph at lines 440--440
-[]\TU/lmr/m/n/10 Conselho Nacional De De-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
-\TU/lmr/m/n/10 senvolvimento Cientifico e
+Underfull \hbox (badness 4832) in paragraph at lines 440--440
+[]\TU/lmr/m/n/10 (1) Conselho Nacional De
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 2221) in paragraph at lines 440--440
-\TU/lmr/m/n/10 Ao Desenvolvimento Cienti-
+Underfull \hbox (badness 2689) in paragraph at lines 440--440
+[]\TU/lmr/m/n/10 (1) Fundacao Cearense De
  []
 
 
-Underfull \hbox (badness 3323) in paragraph at lines 440--440
-[]\TU/lmr/m/n/10 Conselho Nacional De De-
+Underfull \hbox (badness 3907) in paragraph at lines 440--440
+\TU/lmr/m/n/10 Apoio Ao Desenvolvimento
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
-\TU/lmr/m/n/10 senvolvimento Cientifico e
+Underfull \hbox (badness 4832) in paragraph at lines 440--440
+[]\TU/lmr/m/n/10 (1) Conselho Nacional De
  []
 
 
-Underfull \hbox (badness 3323) in paragraph at lines 440--440
-[]\TU/lmr/m/n/10 Conselho Nacional De De-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
-\TU/lmr/m/n/10 senvolvimento Cientifico e
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
-\TU/lmr/m/n/10 Tecnologico-Cnpq; Funda-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
-\TU/lmr/m/n/10 Desenvolvimento Cientifico
+Underfull \hbox (badness 4832) in paragraph at lines 440--440
+[]\TU/lmr/m/n/10 (1) Conselho Nacional De
  []
 
 
@@ -1694,13 +1659,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 440--440
  []
 
 
-Underfull \hbox (badness 3323) in paragraph at lines 440--440
-[]\TU/lmr/m/n/10 Conselho Nacional De De-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
-\TU/lmr/m/n/10 senvolvimento Cientifico e
+Underfull \hbox (badness 4832) in paragraph at lines 440--440
+[]\TU/lmr/m/n/10 (1) Conselho Nacional De
  []
 
 > Step: init table outer spec.
@@ -1711,8 +1671,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 440--440
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 2221) in paragraph at lines 469--469
-\TU/lmr/m/n/10 Ao Desenvolvimento Cienti-
+Underfull \hbox (badness 2689) in paragraph at lines 469--469
+[]\TU/lmr/m/n/10 (1) Fundacao Cearense De
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 469--469
+\TU/lmr/m/n/10 Apoio Ao Desenvolvimento
  []
 
 
@@ -1726,14 +1691,24 @@ Underfull \hbox (badness 2302) in paragraph at lines 469--469
  []
 
 
-Underfull \hbox (badness 2221) in paragraph at lines 469--469
-\TU/lmr/m/n/10 Ao Desenvolvimento Cienti-
+Underfull \hbox (badness 2689) in paragraph at lines 469--469
+[]\TU/lmr/m/n/10 (1) Fundacao Cearense De
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 469--469
+\TU/lmr/m/n/10 Apoio Ao Desenvolvimento
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 2221) in paragraph at lines 469--469
-\TU/lmr/m/n/10 Ao Desenvolvimento Cienti-
+Underfull \hbox (badness 2689) in paragraph at lines 469--469
+[]\TU/lmr/m/n/10 (1) Fundacao Cearense De
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 469--469
+\TU/lmr/m/n/10 Apoio Ao Desenvolvimento
  []
 
 
@@ -1747,8 +1722,13 @@ Underfull \hbox (badness 2302) in paragraph at lines 469--469
  []
 
 
-Underfull \hbox (badness 2221) in paragraph at lines 469--469
-\TU/lmr/m/n/10 Ao Desenvolvimento Cienti-
+Underfull \hbox (badness 2689) in paragraph at lines 469--469
+[]\TU/lmr/m/n/10 (1) Fundacao Cearense De
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 469--469
+\TU/lmr/m/n/10 Apoio Ao Desenvolvimento
  []
 
 
@@ -1818,25 +1798,20 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 584--601
 
 
 [10]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 617--634
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 617--636
  [][] 
  []
 
 
 
 [11]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 646--654
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 651--685
  [][] 
  []
 
 
 
 [12]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 669--703
- [][] 
- []
-
-
 
 [13]
 
@@ -1860,34 +1835,32 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 669--703
 
 [23]
 
-[24]
-
-[25
+[24
 
 ]
 Overfull \vbox (57.72345pt too high) has occurred while \output is active []
 
 
 
-[26]
+[25]
 
-[27]
+[26]
 Overfull \vbox (49.42299pt too high) has occurred while \output is active []
 
 
 
+[27]
+
 [28]
 
 [29]
-
-[30]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 913--943
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 895--925
  [][] 
  []
 
 
 
-[31
+[30
 
 ]
 > Step: init table outer spec.
@@ -1898,228 +1871,228 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 913--943
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 1122) in paragraph at lines 1014--1014
+Underfull \hbox (badness 1122) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 De Avaliação E
  []
 
 
-Underfull \hbox (badness 5741) in paragraph at lines 1014--1014
+Underfull \hbox (badness 5741) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 Intervenção No
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 Sistema Mus-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 culoesquelético
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 Nos Diferentes
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 1014--1014
+Underfull \hbox (badness 1122) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 De Avaliação E
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 1014--1014
+Underfull \hbox (badness 2103) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 Sistemas Cardi-
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 1014--1014
+Underfull \hbox (badness 1292) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 orrespiratório E
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 1014--1014
+Underfull \hbox (badness 7613) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Ana Carla Lima
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Camila Ferreira
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Claudio De Oli-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Daniela Gardano
  []
 
 
-Underfull \hbox (badness 5133) in paragraph at lines 1014--1014
+Underfull \hbox (badness 5133) in paragraph at lines 996--996
 \TU/lmr/m/n/10 Bucharles Montal-
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 1014--1014
+Underfull \hbox (badness 3612) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Fabianna Resende
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Gabriel Peixoto
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Jose Carlos Tat-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Nataly Gurgel
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Pedro Olavo De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Simony Lira Do
  []
 
 
-Underfull \hbox (badness 3792) in paragraph at lines 1014--1014
+Underfull \hbox (badness 3792) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Tulio Luiz Banja
  []
 
 
-Underfull \hbox (badness 2285) in paragraph at lines 1014--1014
+Underfull \hbox (badness 2285) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Vilena Barros De
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 1122) in paragraph at lines 1014--1014
+Underfull \hbox (badness 1122) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 De Avaliação E
  []
 
 
-Underfull \hbox (badness 5741) in paragraph at lines 1014--1014
+Underfull \hbox (badness 5741) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 Intervenção No
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 Sistema Mus-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 culoesquelético
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 Nos Diferentes
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 1014--1014
+Underfull \hbox (badness 1122) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 De Avaliação E
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 1014--1014
+Underfull \hbox (badness 2103) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 Sistemas Cardi-
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 1014--1014
+Underfull \hbox (badness 1292) in paragraph at lines 996--996
 \TU/lmr/bx/n/10 orrespiratório E
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 1014--1014
+Underfull \hbox (badness 7613) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Ana Carla Lima
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Camila Ferreira
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Claudio De Oli-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Daniela Gardano
  []
 
 
-Underfull \hbox (badness 5133) in paragraph at lines 1014--1014
+Underfull \hbox (badness 5133) in paragraph at lines 996--996
 \TU/lmr/m/n/10 Bucharles Montal-
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 1014--1014
+Underfull \hbox (badness 3612) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Fabianna Resende
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Gabriel Peixoto
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Jose Carlos Tat-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Nataly Gurgel
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Pedro Olavo De
  []
 
 
 
-[32]
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Simony Lira Do
  []
 
 
-Underfull \hbox (badness 3792) in paragraph at lines 1014--1014
+Underfull \hbox (badness 3792) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Tulio Luiz Banja
  []
 
 
-Underfull \hbox (badness 2285) in paragraph at lines 1014--1014
+Underfull \hbox (badness 2285) in paragraph at lines 996--996
 []\TU/lmr/m/n/10 Vilena Barros De
  []
 
 
 
-[33]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 1026--1033
+[32]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 1008--1015
  [][] 
  []
 
 
 
-[34]
+[33]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -2129,6 +2102,8 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 1026--1033
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
 
+
+[34]
 
 [35]
 
@@ -2139,11 +2114,11 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 1026--1033
 [38]
 
 [39]
-
-[40]
 Overfull \vbox (224.72902pt too high) has occurred while \output is active []
 
 
+
+[40]
 
 [41]
 
@@ -2153,9 +2128,7 @@ Overfull \vbox (224.72902pt too high) has occurred while \output is active []
 
 [44]
 
-[45]
-
-[46] (./autoavaliacao.aux)
+[45] (./autoavaliacao.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
@@ -2165,12 +2138,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 44039 strings out of 474235
- 921207 string characters out of 5742253
- 1581587 words of memory out of 5000000
- 66099 multiletter control sequences out of 15000+600000
+ 44048 strings out of 474235
+ 921323 string characters out of 5742253
+ 1581762 words of memory out of 5000000
+ 66108 multiletter control sequences out of 15000+600000
  570944 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,19n,123p,1202b,1197s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on autoavaliacao.pdf (49 pages).
+Output written on autoavaliacao.pdf (48 pages).
