@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.27)  28 SEP 2024 22:00
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.27)  4 OCT 2024 19:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -227,7 +227,7 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))) (/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
@@ -235,14 +235,14 @@ Package xcolor Info: Driver file: xetex.def on input line 274.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
-Package xcolor Info: Model `RGB' extended on input line 1366.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -631,7 +631,7 @@ Package shellesc Info: Restricted shell escape enabled on input line 77.
 \svg@box=\box102
 \c@svg@param@currpage=\count354
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
-Package: tcolorbox 2024/07/10 version 6.3.0 text color boxes
+Package: tcolorbox 2024/09/27 version 6.4.0 text color boxes
 (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/
 local/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texl
 ive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
@@ -1085,7 +1085,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package: draftwatermark 2024/03/04 3.3 Put a gray textual watermark on document
  pages
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/siunitx/siunitx.sty
-Package: siunitx 2024-08-20 v3.3.21 A comprehensive (SI) units package
+Package: siunitx 2024-09-30 v3.3.22 A comprehensive (SI) units package
 \l__siunitx_number_uncert_offset_int=\count395
 \l__siunitx_number_exponent_fixed_int=\count396
 \l__siunitx_number_min_decimal_int=\count397
@@ -1554,37 +1554,42 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 
 [3]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+
 
 [1
 
 
 
 ]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 281--291
+ [][] 
+ []
+
+
 
 [2]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 303--315
+ [][] 
+ []
+
+
 
 [3]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 342--352
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 327--346
  [][] 
  []
 
 
 
 [4]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 364--376
- [][] 
- []
-
-
-
-[5]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 388--407
- [][] 
- []
-
-
-
-[6]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1593,73 +1598,73 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 388--407
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 2689) in paragraph at lines 440--440
+Underfull \hbox (badness 2689) in paragraph at lines 379--379
 []\TU/lmr/m/n/10 (1) Fundacao Cearense De
  []
 
 
-Underfull \hbox (badness 3907) in paragraph at lines 440--440
+Underfull \hbox (badness 3907) in paragraph at lines 379--379
 \TU/lmr/m/n/10 Apoio Ao Desenvolvimento
  []
 
 
-Underfull \hbox (badness 4832) in paragraph at lines 440--440
+Underfull \hbox (badness 4832) in paragraph at lines 379--379
 []\TU/lmr/m/n/10 (1) Conselho Nacional De
  []
 
 
-Underfull \hbox (badness 4832) in paragraph at lines 440--440
+Underfull \hbox (badness 4832) in paragraph at lines 379--379
 []\TU/lmr/m/n/10 (1) Conselho Nacional De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
 \TU/lmr/m/n/10 Treinamento Nos Esportes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
 []\TU/lmr/m/n/10 Mario Antonio De
  []
 
 
-Underfull \hbox (badness 4832) in paragraph at lines 440--440
+Underfull \hbox (badness 4832) in paragraph at lines 379--379
 []\TU/lmr/m/n/10 (1) Conselho Nacional De
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 2689) in paragraph at lines 440--440
+Underfull \hbox (badness 2689) in paragraph at lines 379--379
 []\TU/lmr/m/n/10 (1) Fundacao Cearense De
  []
 
 
-Underfull \hbox (badness 3907) in paragraph at lines 440--440
+Underfull \hbox (badness 3907) in paragraph at lines 379--379
 \TU/lmr/m/n/10 Apoio Ao Desenvolvimento
  []
 
 
-Underfull \hbox (badness 4832) in paragraph at lines 440--440
+Underfull \hbox (badness 4832) in paragraph at lines 379--379
 []\TU/lmr/m/n/10 (1) Conselho Nacional De
  []
 
 
-Underfull \hbox (badness 4832) in paragraph at lines 440--440
+Underfull \hbox (badness 4832) in paragraph at lines 379--379
 []\TU/lmr/m/n/10 (1) Conselho Nacional De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
 \TU/lmr/m/n/10 Treinamento Nos Esportes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
 []\TU/lmr/m/n/10 Mario Antonio De
  []
 
 
-Underfull \hbox (badness 4832) in paragraph at lines 440--440
+Underfull \hbox (badness 4832) in paragraph at lines 379--379
 []\TU/lmr/m/n/10 (1) Conselho Nacional De
  []
 
@@ -1671,73 +1676,73 @@ Underfull \hbox (badness 4832) in paragraph at lines 440--440
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 2689) in paragraph at lines 469--469
+Underfull \hbox (badness 2689) in paragraph at lines 408--408
 []\TU/lmr/m/n/10 (1) Fundacao Cearense De
  []
 
 
-Underfull \hbox (badness 3907) in paragraph at lines 469--469
+Underfull \hbox (badness 3907) in paragraph at lines 408--408
 \TU/lmr/m/n/10 Apoio Ao Desenvolvimento
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 469--469
+Underfull \hbox (badness 1253) in paragraph at lines 408--408
 []\TU/lmr/m/n/10 Avaliação Respiratória e Sin-
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 469--469
+Underfull \hbox (badness 2302) in paragraph at lines 408--408
 \TU/lmr/m/n/10 tomas Persistente Na Covid
  []
 
 
-Underfull \hbox (badness 2689) in paragraph at lines 469--469
+Underfull \hbox (badness 2689) in paragraph at lines 408--408
 []\TU/lmr/m/n/10 (1) Fundacao Cearense De
  []
 
 
-Underfull \hbox (badness 3907) in paragraph at lines 469--469
+Underfull \hbox (badness 3907) in paragraph at lines 408--408
 \TU/lmr/m/n/10 Apoio Ao Desenvolvimento
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 2689) in paragraph at lines 469--469
+Underfull \hbox (badness 2689) in paragraph at lines 408--408
 []\TU/lmr/m/n/10 (1) Fundacao Cearense De
  []
 
 
-Underfull \hbox (badness 3907) in paragraph at lines 469--469
+Underfull \hbox (badness 3907) in paragraph at lines 408--408
 \TU/lmr/m/n/10 Apoio Ao Desenvolvimento
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 469--469
+Underfull \hbox (badness 1253) in paragraph at lines 408--408
 []\TU/lmr/m/n/10 Avaliação Respiratória e Sin-
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 469--469
+Underfull \hbox (badness 2302) in paragraph at lines 408--408
 \TU/lmr/m/n/10 tomas Persistente Na Covid
  []
 
 
-Underfull \hbox (badness 2689) in paragraph at lines 469--469
+Underfull \hbox (badness 2689) in paragraph at lines 408--408
 []\TU/lmr/m/n/10 (1) Fundacao Cearense De
  []
 
 
-Underfull \hbox (badness 3907) in paragraph at lines 469--469
+Underfull \hbox (badness 3907) in paragraph at lines 408--408
 \TU/lmr/m/n/10 Apoio Ao Desenvolvimento
  []
 
 
 
-[7
+[5
 
 ]
 
-[8
+[6
 
 ]
 > Step: init table outer spec.
@@ -1748,68 +1753,72 @@ Underfull \hbox (badness 3907) in paragraph at lines 469--469
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Overfull \hbox (4.77612pt too wide) in paragraph at lines 566--566
+Overfull \hbox (4.77612pt too wide) in paragraph at lines 505--505
 []\TU/lmr/bx/n/10 Periodicidade 
  []
 
 
-Underfull \hbox (badness 1910) in paragraph at lines 566--566
+Underfull \hbox (badness 1910) in paragraph at lines 505--505
 []\TU/lmr/bx/n/10 Atividades Complementares De
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 566--566
+Underfull \hbox (badness 1728) in paragraph at lines 505--505
 []\TU/lmr/bx/n/10 Modelo Biopsicossocial Na To-
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 566--566
+Underfull \hbox (badness 1112) in paragraph at lines 505--505
 []\TU/lmr/bx/n/10 Seminários Avançados Em Pes-
  []
 
 > Step: build the whole table.
 
-Overfull \hbox (4.77612pt too wide) in paragraph at lines 566--566
+Overfull \hbox (4.77612pt too wide) in paragraph at lines 505--505
 []\TU/lmr/bx/n/10 Periodicidade 
  []
 
 
-Underfull \hbox (badness 1910) in paragraph at lines 566--566
+Underfull \hbox (badness 1910) in paragraph at lines 505--505
 []\TU/lmr/bx/n/10 Atividades Complementares De
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 566--566
+Underfull \hbox (badness 1728) in paragraph at lines 505--505
 []\TU/lmr/bx/n/10 Modelo Biopsicossocial Na To-
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 566--566
+Underfull \hbox (badness 1112) in paragraph at lines 505--505
 []\TU/lmr/bx/n/10 Seminários Avançados Em Pes-
+ []
+
+
+
+[7]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 523--540
+ [][] 
+ []
+
+
+
+[8]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 556--573
+ [][] 
  []
 
 
 
 [9]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 584--601
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 588--622
  [][] 
  []
 
 
 
 [10]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 617--634
- [][] 
- []
-
-
 
 [11]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 649--683
- [][] 
- []
-
-
 
 [12]
 
@@ -1822,6 +1831,11 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 649--683
 [16]
 
 [17]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 690--706
+ [][] 
+ []
+
+
 
 [18]
 
@@ -1831,21 +1845,181 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 649--683
 
 [21]
 
-[22]
+[22
+
+]
 
 [23]
 
-[24
-
-]
-Overfull \vbox (57.72345pt too high) has occurred while \output is active []
-
-
+[24]
 
 [25]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 836--866
+ [][] 
+ []
 
-[26]
-Overfull \vbox (49.42299pt too high) has occurred while \output is active []
+
+
+[26
+
+]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 Avaliação E Inter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 venção No Sistema
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 Musculoesquelético
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 Avaliação E Inter-
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 venção Nos Sistemas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 Cardiorrespiratório
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 E Neurológico Nos
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 Diferentes Ciclos Da
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 937--937
+[]\TU/lmr/m/n/10 Alexandre Igor Araripe
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 937--937
+[]\TU/lmr/m/n/10 Lidiane Andrea Oliveira
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 937--937
+[]\TU/lmr/m/n/10 Magno Markus Ferreira
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
+\TU/lmr/m/n/10 Formiga Goncalves De
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 937--937
+[]\TU/lmr/m/n/10 Pedro Olavo De Paula
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 937--937
+[]\TU/lmr/m/n/10 Rafael Barreto De Mes-
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 937--937
+[]\TU/lmr/m/n/10 Simony Lira Do Nasci-
+ []
+
+> Step: build the whole table.
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 Avaliação E Inter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 venção No Sistema
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 Musculoesquelético
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 Avaliação E Inter-
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 venção Nos Sistemas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 Cardiorrespiratório
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 E Neurológico Nos
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 937--937
+\TU/lmr/bx/n/10 Diferentes Ciclos Da
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 937--937
+[]\TU/lmr/m/n/10 Alexandre Igor Araripe
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 937--937
+[]\TU/lmr/m/n/10 Lidiane Andrea Oliveira
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 937--937
+[]\TU/lmr/m/n/10 Magno Markus Ferreira
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
+\TU/lmr/m/n/10 Formiga Goncalves De
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 937--937
+[]\TU/lmr/m/n/10 Pedro Olavo De Paula
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 937--937
+[]\TU/lmr/m/n/10 Rafael Barreto De Mes-
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 937--937
+[]\TU/lmr/m/n/10 Simony Lira Do Nasci-
+ []
 
 
 
@@ -1854,254 +2028,19 @@ Overfull \vbox (49.42299pt too high) has occurred while \output is active []
 [28]
 
 [29]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 893--923
- [][] 
- []
 
-
-
-[30
-
-]
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-
-Underfull \hbox (badness 1122) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 De Avaliação E
- []
-
-
-Underfull \hbox (badness 5741) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 Intervenção No
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 Sistema Mus-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 culoesquelético
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 Nos Diferentes
- []
-
-
-Underfull \hbox (badness 1122) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 De Avaliação E
- []
-
-
-Underfull \hbox (badness 2103) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 Sistemas Cardi-
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 orrespiratório E
- []
-
-
-Underfull \hbox (badness 7613) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Ana Carla Lima
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Camila Ferreira
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Claudio De Oli-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Daniela Gardano
- []
-
-
-Underfull \hbox (badness 5133) in paragraph at lines 994--994
-\TU/lmr/m/n/10 Bucharles Montal-
- []
-
-
-Underfull \hbox (badness 3612) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Fabianna Resende
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Gabriel Peixoto
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Jose Carlos Tat-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Nataly Gurgel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Pedro Olavo De
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Simony Lira Do
- []
-
-
-Underfull \hbox (badness 3792) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Tulio Luiz Banja
- []
-
-
-Underfull \hbox (badness 2285) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Vilena Barros De
- []
-
-> Step: build the whole table.
-
-Underfull \hbox (badness 1122) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 De Avaliação E
- []
-
-
-Underfull \hbox (badness 5741) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 Intervenção No
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 Sistema Mus-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 culoesquelético
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 Nos Diferentes
- []
-
-
-Underfull \hbox (badness 1122) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 De Avaliação E
- []
-
-
-Underfull \hbox (badness 2103) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 Sistemas Cardi-
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 994--994
-\TU/lmr/bx/n/10 orrespiratório E
- []
-
-
-Underfull \hbox (badness 7613) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Ana Carla Lima
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Camila Ferreira
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Claudio De Oli-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Daniela Gardano
- []
-
-
-Underfull \hbox (badness 5133) in paragraph at lines 994--994
-\TU/lmr/m/n/10 Bucharles Montal-
- []
-
-
-Underfull \hbox (badness 3612) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Fabianna Resende
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Gabriel Peixoto
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Jose Carlos Tat-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Nataly Gurgel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Pedro Olavo De
- []
-
-
+[30]
 
 [31]
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Simony Lira Do
- []
-
-
-Underfull \hbox (badness 3792) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Tulio Luiz Banja
- []
-
-
-Underfull \hbox (badness 2285) in paragraph at lines 994--994
-[]\TU/lmr/m/n/10 Vilena Barros De
- []
-
-
 
 [32]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 1006--1013
+Overfull \hbox (15.0944pt too wide) in paragraph at lines 980--1018
  [][] 
  []
 
 
 
 [33]
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-> Step: build the whole table.
-
 
 [34]
 
@@ -2109,26 +2048,7 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 1006--1013
 
 [36]
 
-[37]
-
-[38]
-
-[39]
-Overfull \vbox (224.72902pt too high) has occurred while \output is active []
-
-
-
-[40]
-
-[41]
-
-[42]
-
-[43]
-
-[44]
-
-[45] (./autoavaliacao.aux)
+[37] (./autoavaliacao.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -2138,12 +2058,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 44048 strings out of 474235
- 921323 string characters out of 5742253
- 1581767 words of memory out of 5000000
- 66108 multiletter control sequences out of 15000+600000
- 570944 words of font info for 86 fonts, out of 8000000 for 9000
+ 44045 strings out of 474235
+ 921311 string characters out of 5742253
+ 1591411 words of memory out of 5000000
+ 66105 multiletter control sequences out of 15000+600000
+ 572290 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,19n,123p,1202b,1197s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on autoavaliacao.pdf (48 pages).
+Output written on autoavaliacao.pdf (40 pages).
