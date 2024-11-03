@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.26)  2 NOV 2024 21:34
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.26)  3 NOV 2024 16:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1841,23 +1841,23 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 730--740
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Overfull \hbox (12.4192pt too wide) in paragraph at lines 771--771
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 795--795
 []\TU/lmr/bx/n/10 PositiveLRC 
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 771--771
+Underfull \hbox (badness 1609) in paragraph at lines 795--795
 \TU/lmr/bx/n/10 E Intervenção No Sistema
  []
 
 > Step: build the whole table.
 
-Overfull \hbox (12.4192pt too wide) in paragraph at lines 771--771
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 795--795
 []\TU/lmr/bx/n/10 PositiveLRC 
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 771--771
+Underfull \hbox (badness 1609) in paragraph at lines 795--795
 \TU/lmr/bx/n/10 E Intervenção No Sistema
  []
 
@@ -1874,7 +1874,7 @@ Underfull \hbox (badness 1609) in paragraph at lines 771--771
 [18]
 
 [19]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 830--846
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 832--848
  [][] 
  []
 
@@ -1897,7 +1897,7 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 830--846
 [26]
 
 [27]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 976--1006
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 978--1008
  [][] 
  []
 
@@ -1914,208 +1914,208 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 976--1006
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/bx/n/10 Nome do
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 \TU/lmr/bx/n/10 Membro do
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Ana Carla
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Camila Fer-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Cintia Ehlers
  []
 
 
-Underfull \hbox (badness 5741) in paragraph at lines 1077--1077
+Underfull \hbox (badness 5741) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 veira Assump-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Daniela Gar-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Fabianna Re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Gabriel Pei-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 xoto Leao
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Jose Carlos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 Tatmatsu
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 1077--1077
+Underfull \hbox (badness 1412) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Katia Virginia
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Magno Mar-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 kus Ferreira
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 Formiga Gon-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 calves De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Marcela De
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 1077--1077
+Underfull \hbox (badness 2495) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 De Moura Si-
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 1077--1077
+Underfull \hbox (badness 2384) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Nataly Gurgel
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Pedro Olavo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Rodrigo Ri-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 beiro De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Shamyr Suly-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Simony Lira
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Tulio Luiz
  []
 
 
-Underfull \hbox (badness 5302) in paragraph at lines 1077--1077
+Underfull \hbox (badness 5302) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 Banja Fernan-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Vilena Barros
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/bx/n/10 Nome do
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 \TU/lmr/bx/n/10 Membro do
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Ana Carla
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Camila Fer-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Cintia Ehlers
  []
 
 
-Underfull \hbox (badness 5741) in paragraph at lines 1077--1077
+Underfull \hbox (badness 5741) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 veira Assump-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Daniela Gar-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Fabianna Re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Gabriel Pei-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 xoto Leao
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Jose Carlos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 Tatmatsu
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 1077--1077
+Underfull \hbox (badness 1412) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Katia Virginia
  []
 
@@ -2124,79 +2124,79 @@ Underfull \hbox (badness 1412) in paragraph at lines 1077--1077
 [29
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Magno Mar-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 kus Ferreira
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 Formiga Gon-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 calves De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Marcela De
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 1077--1077
+Underfull \hbox (badness 2495) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 De Moura Si-
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 1077--1077
+Underfull \hbox (badness 2384) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Nataly Gurgel
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Pedro Olavo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Rodrigo Ri-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 beiro De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Shamyr Suly-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Simony Lira
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Tulio Luiz
  []
 
 
-Underfull \hbox (badness 5302) in paragraph at lines 1077--1077
+Underfull \hbox (badness 5302) in paragraph at lines 1079--1079
 \TU/lmr/m/n/10 Banja Fernan-
  []
 
 
 
 [30]
-Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
 []\TU/lmr/m/n/10 Vilena Barros
  []
 
@@ -2213,7 +2213,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1077--1077
 [34]
 
 [35]
-Overfull \hbox (15.0944pt too wide) in paragraph at lines 1120--1157
+Overfull \hbox (15.0944pt too wide) in paragraph at lines 1122--1159
  [][] 
  []
 
