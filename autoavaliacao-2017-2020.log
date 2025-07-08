@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.11)  23 JUN 2025 10:03
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.29)  8 JUL 2025 11:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **autoavaliacao-2017-2020.tex
 (./autoavaliacao-2017-2020.tex
 LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-05-26>
+L3 programming layer <2025-06-09>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk10.clo
@@ -99,9 +99,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/unicode-math/unicode-math.sty (
 /usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2025-05-26 L3 programming layer (loader) 
+Package: expl3 2025-06-09 L3 programming layer (loader) 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2025-04-14 L3 backend support: XeTeX
+File: l3backend-xetex.def 2025-06-09 L3 backend support: XeTeX
 \g__graphics_track_int=\count292
 \g__pdfannot_backend_int=\count293
 \g__pdfannot_backend_link_int=\count294
@@ -739,11 +739,11 @@ Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
 \minrowclearance=\skip68
 \rownum=\count342
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+Package: pdflscape 2025-06-23 v0.14 Display of landscape pages in PDF
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.st
 y
-Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+Package: pdflscape-nometadata 2025-06-23 v0.14 Display of landscape pages in PD
 F (HO)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
@@ -1462,7 +1462,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip110
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/siunitx/siunitx.sty
-Package: siunitx 2025-05-22 v3.4.12 A comprehensive (SI) units package
+Package: siunitx 2025-07-05 v3.4.13 A comprehensive (SI) units package
 \l__siunitx_number_uncert_offset_int=\count437
 \l__siunitx_number_exponent_fixed_int=\count438
 \l__siunitx_number_min_decimal_int=\count439
@@ -1961,22 +1961,22 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 [7
 
 ]
-Underfull \hbox (badness 7685) in paragraph at lines 447--447
+Underfull \hbox (badness 7685) in paragraph at lines 450--450
 []\TU/lmr/bx/n/10 AVALIAÇÃO E PRESCRIÇÃO DO TREINA-
  []
 
 
-Underfull \hbox (badness 8056) in paragraph at lines 447--447
+Underfull \hbox (badness 8056) in paragraph at lines 450--450
 []\TU/lmr/bx/n/10 ATIVIDADES COMPLEMENTARES DE PÓS-
  []
 
 
-Underfull \hbox (badness 7685) in paragraph at lines 447--447
+Underfull \hbox (badness 7685) in paragraph at lines 450--450
 []\TU/lmr/bx/n/10 AVALIAÇÃO E PRESCRIÇÃO DO TREINA-
  []
 
 
-Underfull \hbox (badness 8056) in paragraph at lines 447--447
+Underfull \hbox (badness 8056) in paragraph at lines 450--450
 []\TU/lmr/bx/n/10 ATIVIDADES COMPLEMENTARES DE PÓS-
  []
 
@@ -2054,12 +2054,12 @@ Underfull \hbox (badness 8056) in paragraph at lines 447--447
 [32
 
 ]
-Underfull \hbox (badness 7613) in paragraph at lines 1139--1139
+Underfull \hbox (badness 7613) in paragraph at lines 1144--1144
 []\TU/lmr/bx/n/10 Marcela De Castro Ferracioli
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 1139--1139
+Underfull \hbox (badness 7613) in paragraph at lines 1144--1144
 []\TU/lmr/bx/n/10 Marcela De Castro Ferracioli
  []
 
@@ -2075,7 +2075,7 @@ Underfull \hbox (badness 7613) in paragraph at lines 1139--1139
 ]
 
 [35]
-Overfull \hbox (3.10945pt too wide) in paragraph at lines 1197--1224
+Overfull \hbox (3.10945pt too wide) in paragraph at lines 1202--1229
  [][] 
  []
 
@@ -2087,7 +2087,7 @@ Overfull \hbox (3.10945pt too wide) in paragraph at lines 1197--1224
 ]
 
 [37]
-Overfull \hbox (37.73654pt too wide) in paragraph at lines 1268--1294
+Overfull \hbox (37.73654pt too wide) in paragraph at lines 1273--1299
  [][] 
  []
 
@@ -2100,7 +2100,7 @@ Overfull \hbox (37.73654pt too wide) in paragraph at lines 1268--1294
 ]
 
 [40]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 1321--1363
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 1326--1368
  [][] 
  []
 
@@ -2121,42 +2121,42 @@ File: observatorio.png Graphic file (type bmp)
 
 
 [45]
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1553
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1553
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1553
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1553
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1553
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1553
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1553
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1553
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
@@ -2165,34 +2165,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
 [46
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1553
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1553
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1553
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1553
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
 
 [47]
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1553
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1553
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
@@ -2201,52 +2201,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
 [48]
 
 [49]
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1570
+Underfull \hbox (badness 10000) in paragraph at lines 1577--1577
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1570
+Underfull \hbox (badness 10000) in paragraph at lines 1577--1577
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1570
+Underfull \hbox (badness 10000) in paragraph at lines 1577--1577
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1570
+Underfull \hbox (badness 10000) in paragraph at lines 1577--1577
 []\TU/lmr/m/n/10 LIDIANE ANDREA OLIVEIRA
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 1570--1570
+Underfull \hbox (badness 5878) in paragraph at lines 1577--1577
 []\TU/lmr/m/n/10 Photochemical & Photobiological
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1570
+Underfull \hbox (badness 10000) in paragraph at lines 1577--1577
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1570
+Underfull \hbox (badness 10000) in paragraph at lines 1577--1577
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1570
+Underfull \hbox (badness 10000) in paragraph at lines 1577--1577
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1570
+Underfull \hbox (badness 10000) in paragraph at lines 1577--1577
 []\TU/lmr/m/n/10 LIDIANE ANDREA OLIVEIRA
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 1570--1570
+Underfull \hbox (badness 5878) in paragraph at lines 1577--1577
 []\TU/lmr/m/n/10 Photochemical & Photobiological
  []
 
@@ -2257,19 +2257,19 @@ Underfull \hbox (badness 5878) in paragraph at lines 1570--1570
 [51] (./autoavaliacao-2017-2020.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-05-26>
+L3 programming layer <2025-06-09>
  ***********
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 47803 strings out of 468527
- 1002887 string characters out of 5447700
- 1642325 words of memory out of 5000000
- 75537 multiletter control sequences out of 15000+600000
+ 47802 strings out of 468529
+ 1002873 string characters out of 5447722
+ 1643492 words of memory out of 5000000
+ 75534 multiletter control sequences out of 15000+600000
  648656 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,19n,114p,1212b,5123s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,19n,114p,1212b,5125s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on autoavaliacao-2017-2020.pdf (54 pages).
