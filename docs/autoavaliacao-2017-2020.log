@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.11.27)  2 DEC 2025 14:42
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.14)  18 DEC 2025 14:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -597,23 +597,23 @@ Package graphics Info: Driver file: xetex.def on input line 106.
 )
 \pandoc@box=\box64
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2025/11/23 v25.16 The multilingual framework for LuaLaTeX, pdfLa
+Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
 TeX and XeLaTeX
 \babel@savecnt=\count327
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2050.
+ne 2068.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2052.
+ne 2070.
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2054.
+e 2072.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2055.
+e 2073.
 LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2056.
+on input line 2074.
 LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2058.
+on input line 2076.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2083.
+on input line 2101.
 \U@D=\dimen191
 \l@unhyphenated=\language90
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/xebabel.def)
@@ -623,7 +623,7 @@ on input line 2083.
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/pt/babel-brazilian
 .tex)
 Package babel Info: Importing font and identification data for brazilian
-(babel)             from babel-pt-BR.ini. Reported on input line 4298.
+(babel)             from babel-pt-BR.ini. Reported on input line 4320.
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel-portuges/brazilian.ldf
 Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
 Package babel Info: Hyphen rules for 'brazilian' set to \l@portuguese
@@ -1042,7 +1042,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+Package: eso-pic 2025/12/10 v3.0d eso-pic (RN)
 \ESO@tempdima=\dimen338
 \ESO@tempdimb=\dimen339
 )
@@ -2055,136 +2055,177 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 1326--1367
 
 [41] [42] [43
 
+] [44] [45]
+Underfull \hbox (badness 1062) in paragraph at lines 1543--1543
+\TU/lmr/m/n/10 Validity Of The Simple Physical Activity
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 1543--1543
+\TU/lmr/m/n/10 Validity Of The Simple Physical Activity
+ []
+
+[46] [47] [48]
+Overfull \hbox (17.5824pt too wide) in paragraph at lines 1597--1597
+[]\TU/lmr/bx/n/10 YouTube/Vimeo 
+ []
+
+
+Overfull \hbox (17.5824pt too wide) in paragraph at lines 1597--1597
+[]\TU/lmr/bx/n/10 YouTube/Vimeo 
+ []
+
+[49]
+Underfull \hbox (badness 1062) in paragraph at lines 1635--1635
+\TU/lmr/m/n/10 Validity Of The Simple Physical Activity
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 1635--1635
+\TU/lmr/m/n/10 Validity Of The Simple Physical Activity
+ []
+
+[50] [51]
+Underfull \hbox (badness 1062) in paragraph at lines 1671--1671
+\TU/lmr/m/n/10 Validity Of The Simple Physical Activity
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 1671--1671
+\TU/lmr/m/n/10 Validity Of The Simple Physical Activity
+ []
+
+[52] [53] [54
 
 ]
 File: site.png Graphic file (type bmp)
 <site.png>
-[44]
+[55]
 File: observatorio.png Graphic file (type bmp)
 <observatorio.png>
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1799
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1799
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1799
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1799
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1799
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1799
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1799
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1799
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
-[46
+[57
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1799
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1799
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1799
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1799
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
-[47]
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1799
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1799
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
-[48] [49]
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1615
+[59] [60]
+Underfull \hbox (badness 10000) in paragraph at lines 1824--1824
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1615
+Underfull \hbox (badness 10000) in paragraph at lines 1824--1824
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1615
+Underfull \hbox (badness 10000) in paragraph at lines 1824--1824
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1615
+Underfull \hbox (badness 10000) in paragraph at lines 1824--1824
 []\TU/lmr/m/n/10 LIDIANE ANDREA OLIVEIRA
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 1615--1615
+Underfull \hbox (badness 5878) in paragraph at lines 1824--1824
 []\TU/lmr/m/n/10 Photochemical & Photobiological
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1615
+Underfull \hbox (badness 10000) in paragraph at lines 1824--1824
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1615
+Underfull \hbox (badness 10000) in paragraph at lines 1824--1824
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1615
+Underfull \hbox (badness 10000) in paragraph at lines 1824--1824
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1615
+Underfull \hbox (badness 10000) in paragraph at lines 1824--1824
 []\TU/lmr/m/n/10 LIDIANE ANDREA OLIVEIRA
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 1615--1615
+Underfull \hbox (badness 5878) in paragraph at lines 1824--1824
 []\TU/lmr/m/n/10 Photochemical & Photobiological
  []
 
-[50] [51] (./autoavaliacao-2017-2020.aux)
+[61] [62] (./autoavaliacao-2017-2020.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-14>
@@ -2194,12 +2235,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 44031 strings out of 468179
- 882060 string characters out of 5433206
- 1570914 words of memory out of 5000000
- 72118 multiletter control sequences out of 15000+600000
+ 44176 strings out of 468179
+ 885261 string characters out of 5433206
+ 1571038 words of memory out of 5000000
+ 72263 multiletter control sequences out of 15000+600000
  631776 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,19n,126p,1212b,4515s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on autoavaliacao-2017-2020.pdf (54 pages).
+Output written on autoavaliacao-2017-2020.pdf (65 pages).
