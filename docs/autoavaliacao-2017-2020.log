@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.27)  7 FEB 2026 13:37
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.9)  10 FEB 2026 10:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1587,9 +1587,6 @@ LaTeX Warning: Label `tab:2-2-1-list-tables' multiply defined.
 LaTeX Warning: Label `tab:2-2-2-list-tables' multiply defined.
 
 
-LaTeX Warning: Label `tab:2-2-2-list-tables' multiply defined.
-
-
 LaTeX Warning: Label `tab:turmas' multiply defined.
 
 
@@ -2062,12 +2059,12 @@ Underfull \hbox (badness 8056) in paragraph at lines 449--449
 ] [30] [31] [32
 
 ]
-Underfull \hbox (badness 7613) in paragraph at lines 1157--1157
+Underfull \hbox (badness 7613) in paragraph at lines 1126--1126
 []\TU/lmr/bx/n/10 Marcela De Castro Ferracioli
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 1157--1157
+Underfull \hbox (badness 7613) in paragraph at lines 1126--1126
 []\TU/lmr/bx/n/10 Marcela De Castro Ferracioli
  []
 
@@ -2077,7 +2074,7 @@ Underfull \hbox (badness 7613) in paragraph at lines 1157--1157
 
 
 ] [35]
-Overfull \hbox (3.10945pt too wide) in paragraph at lines 1214--1240
+Overfull \hbox (3.10945pt too wide) in paragraph at lines 1183--1209
  [][] 
  []
 
@@ -2085,56 +2082,56 @@ Overfull \hbox (3.10945pt too wide) in paragraph at lines 1214--1240
 
 
 ] [37]
-Overfull \hbox (37.73654pt too wide) in paragraph at lines 1283--1308
+Overfull \hbox (37.73654pt too wide) in paragraph at lines 1252--1277
  [][] 
  []
 
 [38] [39
 
 ] [40]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 1335--1376
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 1304--1345
  [][] 
  []
 
 [41] [42] [43
 
 ] [44] [45]
-Underfull \hbox (badness 1062) in paragraph at lines 1551--1551
+Underfull \hbox (badness 1062) in paragraph at lines 1520--1520
 \TU/lmr/m/n/10 Validity Of The Simple Physical Activity
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 1551--1551
+Underfull \hbox (badness 1062) in paragraph at lines 1520--1520
 \TU/lmr/m/n/10 Validity Of The Simple Physical Activity
  []
 
 [46] [47] [48]
-Overfull \hbox (17.5824pt too wide) in paragraph at lines 1605--1605
+Overfull \hbox (17.5824pt too wide) in paragraph at lines 1574--1574
 []\TU/lmr/bx/n/10 YouTube/Vimeo 
  []
 
 
-Overfull \hbox (17.5824pt too wide) in paragraph at lines 1605--1605
+Overfull \hbox (17.5824pt too wide) in paragraph at lines 1574--1574
 []\TU/lmr/bx/n/10 YouTube/Vimeo 
  []
 
 [49]
-Underfull \hbox (badness 1062) in paragraph at lines 1643--1643
+Underfull \hbox (badness 1062) in paragraph at lines 1612--1612
 \TU/lmr/m/n/10 Validity Of The Simple Physical Activity
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 1643--1643
+Underfull \hbox (badness 1062) in paragraph at lines 1612--1612
 \TU/lmr/m/n/10 Validity Of The Simple Physical Activity
  []
 
 [50] [51]
-Underfull \hbox (badness 1062) in paragraph at lines 1679--1679
+Underfull \hbox (badness 1062) in paragraph at lines 1648--1648
 \TU/lmr/m/n/10 Validity Of The Simple Physical Activity
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 1679--1679
+Underfull \hbox (badness 1062) in paragraph at lines 1648--1648
 \TU/lmr/m/n/10 Validity Of The Simple Physical Activity
  []
 
@@ -2147,124 +2144,124 @@ File: site.png Graphic file (type bmp)
 File: observatorio.png Graphic file (type bmp)
 <observatorio.png>
 [56]
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1807
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1776
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1807
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1776
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1807
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1776
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1807
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1776
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1807
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1776
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1807
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1776
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1807
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1776
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1807
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1776
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 [57
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1807
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1776
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1807
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1776
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1807
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1776
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1807
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1776
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 [58]
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1807
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1776
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1807
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1776
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 [59] [60]
-Underfull \hbox (badness 10000) in paragraph at lines 1832--1832
+Underfull \hbox (badness 10000) in paragraph at lines 1801--1801
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1832--1832
+Underfull \hbox (badness 10000) in paragraph at lines 1801--1801
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1832--1832
+Underfull \hbox (badness 10000) in paragraph at lines 1801--1801
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1832--1832
+Underfull \hbox (badness 10000) in paragraph at lines 1801--1801
 []\TU/lmr/m/n/10 LIDIANE ANDREA OLIVEIRA
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 1832--1832
+Underfull \hbox (badness 5878) in paragraph at lines 1801--1801
 []\TU/lmr/m/n/10 Photochemical & Photobiological
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1832--1832
+Underfull \hbox (badness 10000) in paragraph at lines 1801--1801
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1832--1832
+Underfull \hbox (badness 10000) in paragraph at lines 1801--1801
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1832--1832
+Underfull \hbox (badness 10000) in paragraph at lines 1801--1801
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1832--1832
+Underfull \hbox (badness 10000) in paragraph at lines 1801--1801
 []\TU/lmr/m/n/10 LIDIANE ANDREA OLIVEIRA
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 1832--1832
+Underfull \hbox (badness 5878) in paragraph at lines 1801--1801
 []\TU/lmr/m/n/10 Photochemical & Photobiological
  []
 
@@ -2279,8 +2276,8 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  48116 strings out of 468174
- 1010920 string characters out of 5433150
- 1657757 words of memory out of 5000000
+ 1010920 string characters out of 5433151
+ 1656757 words of memory out of 5000000
  76196 multiletter control sequences out of 15000+600000
  631776 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
