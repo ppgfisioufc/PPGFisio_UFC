@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.16)  22 FEB 2026 14:36
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.16)  22 FEB 2026 15:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1940,20 +1940,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 \openout4 = `consolidado.toc'.
 
 [2]
-Missing character: There is no β (U+03B2) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no β (U+03B2) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no β (U+03B2) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no β (U+03B2) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no β (U+03B2) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no β (U+03B2) in font [lmroman10-bold]:mapping=tex-
-text;!
-
-Overfull \hbox (296.09322pt too wide) in paragraph at lines 245--255
+Overfull \hbox (281.5532pt too wide) in paragraph at lines 245--255
  [][] 
  []
 
