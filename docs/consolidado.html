@@ -808,7 +808,7 @@ href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://github.com
 <p><br></p>
 <table style="NAborder-bottom: 0; margin-left: auto; margin-right: auto;border-bottom: 0;" class="table table-striped table-hover table-condensed table-responsive">
 <caption>
-Razão discentes/docentes por ano (2019-2024)
+Características do corpo docente e discente por ano (2019-2024)
 </caption>
 <thead>
 <tr>
@@ -821,6 +821,61 @@ N = 6
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align:left;">
+Ano
+</td>
+<td style="text-align:center;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+2019
+</td>
+<td style="text-align:center;">
+1 (17%)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+2020
+</td>
+<td style="text-align:center;">
+1 (17%)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+2021
+</td>
+<td style="text-align:center;">
+1 (17%)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+2022
+</td>
+<td style="text-align:center;">
+1 (17%)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+2023
+</td>
+<td style="text-align:center;">
+1 (17%)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+2024
+</td>
+<td style="text-align:center;">
+1 (17%)
+</td>
+</tr>
 <tr>
 <td style="text-align:left;">
 Total de docentes
@@ -867,9 +922,16 @@ class="uri">https://sucupira.capes.gov.br</a>)
 </tr>
 </tfoot>
 </table>
-<table style="NAborder-bottom: 0; margin-left: auto; margin-right: auto;border-bottom: 0;" class="table table-striped table-hover table-condensed table-responsive">
+<p style="color: black; font-weight: bold;">
+Existe tendência temporal no número total de discentes?
+</p>
+<p style='color: black; font-weight: bold;'>
+Existe tendência temporal no número total de discentes, ajustando pelo
+número total de docentes?/p&gt;
+<table style="NAborder-bottom: 0; margin-left: auto; margin-right: auto;" class="table table-striped table-hover table-condensed table-responsive">
 <caption>
-Razão discentes/docente por ano, com modelos bruto e ajustado(2019-2024)
+Modelos de regressão linear para o total de discentes por ano
+(2019-2024)
 </caption>
 <thead>
 <tr>
@@ -877,21 +939,21 @@ Razão discentes/docente por ano, com modelos bruto e ajustado(2019-2024)
 </th>
 <th style="border-bottom:hidden;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="3">
 <div style="border-bottom: 1px solid #ddd; padding-bottom: 5px; ">
-Modelo Bruto
+Modelo bruto
 </div>
 </th>
 <th style="border-bottom:hidden;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="3">
 <div style="border-bottom: 1px solid #ddd; padding-bottom: 5px; ">
-Modelo Ajustado
+Modelo ajustado
 </div>
 </th>
 </tr>
 <tr>
 <th style="text-align:left;">
-Characteristic
+Variável
 </th>
 <th style="text-align:center;">
-Beta
+Discentes (β)
 </th>
 <th style="text-align:center;">
 IC 95%
@@ -900,7 +962,7 @@ IC 95%
 p-value
 </th>
 <th style="text-align:center;">
-Beta
+Discentes (β)
 </th>
 <th style="text-align:center;">
 IC 95%
@@ -913,44 +975,34 @@ p-value
 <tbody>
 <tr>
 <td style="text-align:left;">
-Total de docentes
+Anos
 </td>
 <td style="text-align:center;">
-0
+14
 </td>
 <td style="text-align:center;">
-0, 0
+11, 17
 </td>
 <td style="text-align:center;">
-0.4
+&lt;0.001
 </td>
 <td style="text-align:center;">
--1
+19
 </td>
 <td style="text-align:center;">
--1, 0
+16, 23
 </td>
 <td style="text-align:center;">
-0.006
+&lt;0.001
 </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td style="padding: 0; " colspan="100%">
-<sup></sup> Abbreviation: CI = Confidence Interval
-</td>
-</tr>
-</tfoot>
-<tfoot>
-<tr>
-<td style="padding: 0; " colspan="100%">
-<span style="font-style: italic;">Fonte: </span>
-</td>
-</tr>
-<tr>
-<td style="padding: 0; " colspan="100%">
-<sup></sup> Plataforma Sucupira (<a href="https://sucupira.capes.gov.br"
+<sup></sup> IC 95%: Intervalo de confiança de 95%.&lt;br&gt;Modelo
+ajustado pelo número total de docentes como covariável.&lt;br&gt;Fonte:
+Plataforma Sucupira (<a href="https://sucupira.capes.gov.br"
 class="uri">https://sucupira.capes.gov.br</a>)
 </td>
 </tr>
